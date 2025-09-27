@@ -124,7 +124,7 @@
         {% endif %}
         
         <!-- Upload Form -->
-        <form method="post" enctype="multipart/form-data" id="uploadForm">
+        <form method="post" action="{% url 'upload_csv' %}" enctype="multipart/form-data" id="uploadForm">
             {% csrf_token %}
             <div class="upload-form" id="dropZone">
                 <h3>Upload CSV File</h3>
@@ -135,85 +135,6 @@
                 <button type="submit" class="btn">Upload CSV</button>
             </div>
         </form>
-        
-        <!-- Recent Uploads -->
-        {% if recent_uploads %}
-        <div class="recent-uploads">
-            <h3>Recent Uploads</h3>
-            {% for upload in recent_uploads %}
-            <div class="upload-item">
-                <div class="upload-info">
-                    <strong>{{ upload.name }}</strong><br>
-                    <small>Uploaded: {{ upload.uploaded_at|date:"M d, Y H:i" }}</small>
-                </div>
-                <div class="upload-status {% if upload.processed %}status-processed{% else %}status-pending{% endif %}">
-                    {% if upload.processed %}Processed{% else %}Pending{% endif %}
-                </div>
-            </div>
-            {% endfor %}
-        </div>
-        {% endif %}
-        
-        <!-- API Documentation -->
-        <div class="api-section">
-            <h3>API Endpoints</h3>
-            <p>You can also upload and retrieve CSV data via API:</p>
-            
-            <h4>Upload CSV (POST)</h4>
-            <div class="api-example">
-POST /graphs/api/upload/
-Content-Type: multipart/form-data
-
-Form data:
-- csv_file: [CSV file]
-            </div>
-            
-            <h4>Get Data (GET)</h4>
-            <div class="api-example">
-GET /graphs/api/data/?upload_id=[ID]
-            </div>
-            
-            <h4>List Uploads (GET)</h4>
-            <div class="api-example">
-GET /graphs/api/uploads/
-            </div>
-        </div>
     </div>
-
-    <script>
-        // Drag and drop functionality
-        const dropZone = document.getElementById('dropZone');
-        const fileInput = document.getElementById('csvFile');
-        
-        dropZone.addEventListener('dragover', (e) => {
-            e.preventDefault();
-            dropZone.classList.add('dragover');
-        });
-        
-        dropZone.addEventListener('dragleave', () => {
-            dropZone.classList.remove('dragover');
-        });
-        
-        dropZone.addEventListener('drop', (e) => {
-            e.preventDefault();
-            dropZone.classList.remove('dragover');
-            
-            const files = e.dataTransfer.files;
-            if (files.length > 0) {
-                fileInput.files = files;
-            }
-        });
-        
-        dropZone.addEventListener('click', () => {
-            fileInput.click();
-        });
-        
-        // Form submission with loading state
-        document.getElementById('uploadForm').addEventListener('submit', function(e) {
-            const submitBtn = this.querySelector('button[type="submit"]');
-            submitBtn.textContent = 'Uploading...';
-            submitBtn.disabled = true;
-        });
-    </script>
 </body>
 </html> 
