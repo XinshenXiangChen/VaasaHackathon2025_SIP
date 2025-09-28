@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'vaasaHackathon.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'postgres',
+        'NAME': 'postgresjunction',
         'USER': 'postgres',
         'PASSWORD': 'postgres',
         'HOST': 'localhost',

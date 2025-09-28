@@ -2,7 +2,7 @@ from django.db import models
 
 # Create your models here.
 class Proces(models.Model):
-    lci_number = models.IntegerField(primary_key=True)
+    lci_number = models.TextField(primary_key=True)
     unit = models.TextField()
     process_name = models.TextField()
     carbon_dioxide = models.IntegerField()
