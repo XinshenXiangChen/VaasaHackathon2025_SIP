@@ -22,6 +22,7 @@ def upload_csv(request):
         uploaded_file = request.FILES["csv_file"]
         csv_items = load_items_from_csv(uploaded_file)
         result = map_items_to_idemat(csv_items["Issue"].tolist(), topn=20)
+        print("left ai")
         # Read file contents
         
         # unit_list =
@@ -151,6 +152,7 @@ def upload_csv(request):
 
     with open("../base_dashboard.json") as file:
         json_dashboard = json.load(file)
+        grafana.delete_dashboard("sustainaibility_dashboard")
         grafana.make_dashboard("sustainaibility_dashboard", "fezd6aiy8s6ioc", json_dashboard)
 
     #return render(request, 'index.html', context)

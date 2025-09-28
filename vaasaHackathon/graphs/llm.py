@@ -69,13 +69,14 @@ Por favor, mapea cada item a su proceso más similar en Idemat2025. Responde SOL
 
     try:
         completion = client.chat.completions.create(
-            model="x-ai/grok-4-fast:free",
+            model="meta-llama/llama-3.3-8b-instruct:free",
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_message}
             ],
             temperature=0.3,  # Temperatura moderada para mejor creatividad
-            max_tokens=2000
+            max_tokens=2000,
+            stream=True  # <- modo streaming
         )
 
         response_content = completion.choices[0].message.content
@@ -112,7 +113,6 @@ Por favor, mapea cada item a su proceso más similar en Idemat2025. Responde SOL
 def map_items_to_idemat(items, topn=20):
     print("with ai")
     payload = build_prompt(items, topn=topn)
-    print("left ai")
     return call_llm(SYSTEM_PROMPT, payload)
 
 

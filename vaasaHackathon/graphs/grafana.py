@@ -24,3 +24,7 @@ def make_dashboard(name, folder, spec):
                   headers={"Authorization": f"Bearer {token}"}, json=data)
 
     check(response)
+
+def delete_dashboard(uid):
+    response = requests.delete(f"{url}/apis/dashboard.grafana.app/v1beta1/namespaces/default/dashboards/{uid}",
+                               headers={"Authorization": f"Bearer {token}"})

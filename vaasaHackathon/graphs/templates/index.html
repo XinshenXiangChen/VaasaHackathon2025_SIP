@@ -3,223 +3,446 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CSV Upload - Graphs</title>
+    <title>FIBERS S.A Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'dark-bg': '#0d1117',
+                        'dark-sidebar': '#111827',
+                        'dark-card': '#161b22',
+                        'dark-border': '#30363d',
+                        'text-light': '#d1d5db',
+                        'text-white': '#ffffff',
+                        'cyan-primary': '#06b6d4',
+                        'cyan-hover': '#0891b2',
+                        'navy-blue': '#1e3a8a',
+                        'success-green': '#10b981',
+                        'warning-orange': '#f59e0b',
+                        'error-red': '#ef4444'
+                    }
+                }
+            }
+        }
+    </script>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f5f5f5;
-            height: 100vh;
+        /* Custom scrollbar */
+        ::-webkit-scrollbar {
+            width: 6px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #111827;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #374151;
+            border-radius: 3px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #4b5563;
         }
 
-        /* Layout container (holds sidebar + main content) */
-        .layout {
-            display: flex;
-            height: 100vh; /* full height */
-            width: 100vw;
+        /* Smooth transitions */
+        * {
+            transition: all 0.2s ease-in-out;
         }
 
-        /* Sidebar */
-        .sidebar {
-            width: 220px; /* fixed sidebar width */
-            background-color: #181b1f; /* dark sidebar */
-            color: white;
-            padding: 20px;
-            box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+        /* Loading animation */
+        .loading-spinner {
+            animation: spin 1s linear infinite;
+        }
+        
+        @keyframes spin {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
         }
 
-        /* Sidebar heading */
-        .sidebar h2 {
-            margin-bottom: 20px;
-            font-size: 32px;
-            padding-bottom: 10px;
+        /* Progress bar animation */
+        .progress-bar {
+            animation: progress 2s ease-in-out;
+        }
+        
+        @keyframes progress {
+            from { width: 0%; }
+            to { width: 100%; }
         }
 
-        /* Sidebar list */
-        .sidebar ul {
-            list-style: none;
-            padding: 0;
+        /* Card hover effects */
+        .card-hover {
+            transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+        }
+        
+        .card-hover:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
         }
 
-        .sidebar ul li {
-            margin: 15px 0;
+        /* File upload area */
+        .upload-area {
+            transition: all 0.3s ease;
+        }
+        
+        .upload-area.dragover {
+            border-color: #06b6d4;
+            background-color: rgba(6, 182, 212, 0.1);
+            transform: scale(1.02);
         }
 
-        /* Sidebar links */
-        .sidebar ul li a {
-            color: white;
-            text-decoration: none;
-            font-weight: bold;
-            transition: color 0.3s;
-            font-size: 24px;
+        /* Tab animations */
+        .tab-content {
+            animation: fadeIn 0.3s ease-in-out;
         }
-        .sidebar ul li a:hover {
-            color: #1abc9c; /* nice teal highlight */
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
         }
 
-        .container {
-            flex: 1;
-            background: white;
-            padding: 30px;
-            border-radius: 0;
-            box-shadow: none;
-            overflow-y: auto;
-        }
-        .title-bar {
-            background-color: #181b1f; /* same as sidebar */
-            color: white; /* text contrast */
-            padding: 15px 20px; /* vertical + horizontal padding */
-            border-radius: 8px 8px 0 0; /* optional rounded top corners */
-            margin-bottom: 20px; /* spacing below */
-        }
-
-        .title-bar h1 {
-            margin: 0; /* remove default h1 margin inside bar */
-            font-size: 28px; /* optional: adjust font size */
-        }
-        .title-date {
-            font-size: 16px;
-            color: white;
-            margin-top: 8px; /* space below the title */
-        }
-
-
-
-        .upload-form {
-            border: 2px dashed #ddd;
-            padding: 30px;
-            text-align: center;
-            border-radius: 8px;
-            margin-bottom: 30px;
-        }
-        .upload-form.dragover {
-            border-color: #007cba;
-            background-color: #f0f8ff;
-        }
-        .file-input {
-            margin: 20px 0;
-        }
-        .btn {
-            background-color: #007cba;
-            color: white;
-            padding: 12px 24px;
-            border: none;
-            border-radius: 4px;
-            cursor: pointer;
-            font-size: 16px;
-        }
-        .btn:hover {
-            background-color: #005a87;
-        }
-        .messages {
-            margin-bottom: 20px;
-        }
-        .message {
-            padding: 10px;
-            border-radius: 4px;
-            margin-bottom: 10px;
-        }
-        .message.success {
-            background-color: #d4edda;
-            color: #155724;
-            border: 1px solid #c3e6cb;
-        }
-        .message.error {
-            background-color: #f8d7da;
-            color: #721c24;
-            border: 1px solid #f5c6cb;
-        }
-        .recent-uploads {
-            margin-top: 30px;
-        }
-        .upload-item {
-            background: #f8f9fa;
-            padding: 15px;
-            border-radius: 4px;
-            margin-bottom: 10px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-        .upload-info {
-            flex-grow: 1;
-        }
-        .upload-status {
-            padding: 4px 8px;
-            border-radius: 4px;
-            font-size: 12px;
-            font-weight: bold;
-        }
-        .status-processed {
-            background-color: #d4edda;
-            color: #155724;
-        }
-        .status-pending {
-            background-color: #fff3cd;
-            color: #856404;
-        }
-        .api-section {
-            margin-top: 40px;
-            padding: 20px;
-            background-color: #f8f9fa;
-            border-radius: 8px;
-        }
-        .api-example {
-            background-color: #e9ecef;
-            padding: 15px;
-            border-radius: 4px;
-            font-family: monospace;
-            font-size: 14px;
-            margin: 10px 0;
-            overflow-x: auto;
+        /* Mobile sidebar */
+        @media (max-width: 1024px) {
+            .sidebar {
+                transform: translateX(-100%);
+                transition: transform 0.3s ease-in-out;
+            }
+            .sidebar.open {
+                transform: translateX(0);
+            }
         }
     </style>
 </head>
-<body>
-    <div class="layout">
+<body class="bg-dark-bg text-text-light min-h-screen">
+    <!-- Main Layout Container -->
+    <div class="flex h-screen overflow-hidden">
         <!-- Sidebar -->
-        <aside class="sidebar">
-            <h2>Menu</h2>
-            <ul>
-                <li><a href="{% url 'index' %}">Upload</a></li>
-                <li><a href="{% url 'visualization' %}">Visualisation</a></li>
-            </ul>
-        </aside>
-        <!-- End of Sidebar -->
-
-        <div class="container">
-            <div class="title-bar">
-                <h1>CSV Data Upload</h1>
-                <div class="title-date">
-                    {% now "j M, Y" %}
-                </div>
-            </div>
-
-            <!-- Messages -->
-            {% if messages %}
-            <div class="messages">
-                {% for message in messages %}
-                <div class="message {{ message.tags }}">
-                    {{ message }}
-                </div>
-                {% endfor %}
-            </div>
-            {% endif %}
-
-            <!-- Upload Form -->
-            <form method="post" action="{% url 'upload_csv' %}" enctype="multipart/form-data" id="uploadForm">
-                {% csrf_token %}
-                <div class="upload-form" id="dropZone">
-                    <h3>Upload CSV File</h3>
-                    <p>Drag and drop your CSV file here or click to select</p>
-                    <div class="file-input">
-                        <input type="file" name="csv_file" id="csvFile" accept=".csv" required>
+        <aside id="sidebar" class="bg-dark-sidebar w-64 flex-shrink-0 flex flex-col shadow-xl lg:translate-x-0">
+            <!-- Logo Section -->
+            <div class="p-6 border-b border-dark-border">
+                <div class="flex items-center space-x-3">
+                    <div class="w-10 h-10 bg-gradient-to-br from-cyan-primary to-cyan-hover rounded-lg flex items-center justify-center">
+                        <i data-lucide="leaf" class="w-6 h-6 text-white"></i>
                     </div>
-                    <button type="submit" class="btn">Upload CSV</button>
+                    <div>
+                        <h1 class="text-xl font-bold text-text-white">FIBERS S.A</h1>
+                        <p class="text-sm text-text-light">Dashboard</p>
+                    </div>
                 </div>
-            </form>
+            </div>
+
+            <!-- Navigation Menu -->
+            <nav class="flex-1 p-4 space-y-2">
+                <a href="{% url 'index' %}" class="nav-item active flex items-center space-x-3 px-4 py-3 rounded-lg bg-cyan-primary/20 text-cyan-primary border border-cyan-primary/30">
+                    <i data-lucide="upload" class="w-5 h-5"></i>
+                    <span class="font-medium">Upload</span>
+                </a>
+                <a href="{% url 'visualization' %}" class="nav-item flex items-center space-x-3 px-4 py-3 rounded-lg hover:bg-dark-card text-text-light hover:text-text-white">
+                    <i data-lucide="bar-chart-3" class="w-5 h-5"></i>
+                    <span class="font-medium">Visualization</span>
+                </a>
+                <a href="#" class="nav-item flex items-center space-x-3 px-4 py-3 rounded-lg hover:bg-dark-card text-text-light hover:text-text-white">
+                    <i data-lucide="settings" class="w-5 h-5"></i>
+                    <span class="font-medium">Settings</span>
+                </a>
+                <a href="#" class="nav-item flex items-center space-x-3 px-4 py-3 rounded-lg hover:bg-dark-card text-text-light hover:text-text-white">
+                    <i data-lucide="help-circle" class="w-5 h-5"></i>
+                    <span class="font-medium">Help</span>
+                </a>
+            </nav>
+
+            <!-- User Profile Section -->
+            <div class="p-4 border-t border-dark-border">
+                <div class="flex items-center space-x-3">
+                    <div class="w-8 h-8 bg-gradient-to-br from-cyan-primary to-cyan-hover rounded-full flex items-center justify-center">
+                        <i data-lucide="user" class="w-4 h-4 text-white"></i>
+                    </div>
+                    <div class="flex-1 min-w-0">
+                        <p class="text-sm font-medium text-text-white truncate">Admin User</p>
+                        <p class="text-xs text-text-light truncate">admin@fibers.com</p>
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content Area -->
+        <div class="flex-1 flex flex-col overflow-hidden">
+            <!-- Top Navigation Bar -->
+            <header class="bg-dark-card border-b border-dark-border px-6 py-4">
+                <div class="flex items-center justify-between">
+                    <div class="flex items-center space-x-4">
+                        <button id="sidebar-toggle" class="lg:hidden p-2 rounded-lg hover:bg-dark-bg">
+                            <i data-lucide="menu" class="w-5 h-5"></i>
+                        </button>
+                        <div>
+                            <h2 class="text-xl font-semibold text-text-white">Data Upload</h2>
+                            <p class="text-sm text-text-light">Upload and process your ESG data files</p>
+                        </div>
+                    </div>
+                    <div class="flex items-center space-x-4">
+                        <div class="text-sm text-text-light">
+                            <i data-lucide="calendar" class="w-4 h-4 inline mr-1"></i>
+                            {% now "M d, Y" %}
+                        </div>
+                        <div class="w-8 h-8 bg-gradient-to-br from-cyan-primary to-cyan-hover rounded-full flex items-center justify-center cursor-pointer hover:scale-105">
+                            <i data-lucide="bell" class="w-4 h-4 text-white"></i>
+                        </div>
+                    </div>
+                </div>
+            </header>
+
+            <!-- Main Content -->
+            <main class="flex-1 overflow-y-auto p-6">
+        <!-- Messages -->
+        {% if messages %}
+                <div class="mb-6 space-y-3">
+            {% for message in messages %}
+                    <div class="message {{ message.tags }} p-4 rounded-lg border">
+                        {% if message.tags == 'success' %}
+                        <div class="flex items-center space-x-3 text-success-green">
+                            <i data-lucide="check-circle" class="w-5 h-5"></i>
+                            <span>{{ message }}</span>
+                        </div>
+                        {% elif message.tags == 'error' %}
+                        <div class="flex items-center space-x-3 text-error-red">
+                            <i data-lucide="alert-circle" class="w-5 h-5"></i>
+                            <span>{{ message }}</span>
+                        </div>
+                        {% else %}
+                        <div class="flex items-center space-x-3 text-warning-orange">
+                            <i data-lucide="info" class="w-5 h-5"></i>
+                            <span>{{ message }}</span>
+                        </div>
+                        {% endif %}
+            </div>
+            {% endfor %}
+        </div>
+        {% endif %}
+
+                <!-- Upload Section -->
+                <div class="card-hover bg-dark-card rounded-xl border border-dark-border p-8 mb-6">
+                    <div class="text-center mb-8">
+                        <div class="w-16 h-16 bg-gradient-to-br from-cyan-primary to-cyan-hover rounded-full flex items-center justify-center mx-auto mb-4">
+                            <i data-lucide="cloud-upload" class="w-8 h-8 text-white"></i>
+                        </div>
+                        <h3 class="text-2xl font-bold text-text-white mb-2">Upload ESG Data</h3>
+                        <p class="text-text-light">Drag and drop your CSV file or click to browse</p>
+                    </div>
+        
+        <!-- Upload Form -->
+                    <form method="post" action="{% url 'upload_csv' %}" enctype="multipart/form-data" id="uploadForm" class="space-y-6">
+            {% csrf_token %}
+                        
+                        <!-- File Upload Area -->
+                        <div id="uploadArea" class="upload-area border-2 border-dashed border-dark-border rounded-xl p-12 text-center cursor-pointer hover:border-cyan-primary">
+                            <div id="uploadContent">
+                                <i data-lucide="file-plus" class="w-12 h-12 text-text-light mx-auto mb-4"></i>
+                                <p class="text-lg font-medium text-text-white mb-2">Choose CSV file or drag it here</p>
+                                <p class="text-text-light mb-4">Supports .csv files</p>
+                                <button type="button" class="bg-cyan-primary hover:bg-cyan-hover text-white px-6 py-3 rounded-lg font-medium">
+                                    Browse Files
+                                </button>
+                            </div>
+                            
+                            <!-- File Preview (hidden initially) -->
+                            <div id="filePreview" class="hidden">
+                                <div class="flex items-center justify-center space-x-4 mb-4">
+                                    <div class="w-12 h-12 bg-success-green/20 rounded-lg flex items-center justify-center">
+                                        <i data-lucide="file-text" class="w-6 h-6 text-success-green"></i>
+                                    </div>
+                                    <div class="text-left">
+                                        <p id="fileName" class="font-medium text-text-white"></p>
+                                        <p id="fileSize" class="text-sm text-text-light"></p>
+                                    </div>
+                                </div>
+                                <button type="button" id="changeFile" class="text-cyan-primary hover:text-cyan-hover font-medium">
+                                    Change File
+                                </button>
+                            </div>
+                        </div>
+
+                        <!-- Hidden file input -->
+                        <input type="file" name="csv_file" id="csvFile" accept=".csv" required class="hidden">
+
+                        <!-- Upload Button -->
+                        <div class="text-center">
+                            <button type="submit" id="uploadBtn" class="bg-cyan-primary hover:bg-cyan-hover text-white px-8 py-3 rounded-lg font-medium disabled:opacity-50 disabled:cursor-not-allowed">
+                                <span id="uploadBtnText">Upload & Process</span>
+                                <i data-lucide="arrow-right" class="w-4 h-4 inline ml-2"></i>
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </main>
+
+            <!-- Footer -->
+
+            </div>
+    </div>
+
+    <!-- Loading Overlay -->
+    <div id="loadingOverlay" class="fixed inset-0 bg-black/70 flex items-center justify-center z-50 hidden">
+        <div class="bg-dark-card rounded-xl p-8 max-w-md w-full mx-4 text-center">
+            <div class="w-16 h-16 bg-gradient-to-br from-cyan-primary to-cyan-hover rounded-full flex items-center justify-center mx-auto mb-4">
+                <i data-lucide="loader-2" class="w-8 h-8 text-white loading-spinner"></i>
+            </div>
+            <h3 class="text-xl font-bold text-text-white mb-2">Processing CSV...</h3>
+            <p class="text-text-light mb-6">Analyzing ESG data with AI</p>
+            
+            <!-- Progress Bar -->
+            <div class="w-full bg-dark-border rounded-full h-2 mb-4">
+                <div id="progressBar" class="bg-gradient-to-r from-cyan-primary to-cyan-hover h-2 rounded-full progress-bar" style="width: 0%"></div>
+            </div>
+            
+            <div class="text-sm text-text-light">
+                <span id="progressText">Initializing...</span>
+            </div>
         </div>
     </div>
+
+    <script>
+        // Initialize Lucide icons
+        lucide.createIcons();
+
+        // Sidebar toggle for mobile
+        const sidebarToggle = document.getElementById('sidebar-toggle');
+        const sidebar = document.getElementById('sidebar');
+        
+        sidebarToggle?.addEventListener('click', () => {
+            sidebar.classList.toggle('open');
+        });
+
+        // File upload functionality
+        const uploadArea = document.getElementById('uploadArea');
+        const uploadContent = document.getElementById('uploadContent');
+        const filePreview = document.getElementById('filePreview');
+        const fileInput = document.getElementById('csvFile');
+        const uploadBtn = document.getElementById('uploadBtn');
+        const uploadBtnText = document.getElementById('uploadBtnText');
+        const changeFileBtn = document.getElementById('changeFile');
+        const fileName = document.getElementById('fileName');
+        const fileSize = document.getElementById('fileSize');
+
+        // Drag and drop functionality
+        uploadArea.addEventListener('dragover', (e) => {
+            e.preventDefault();
+            uploadArea.classList.add('dragover');
+        });
+
+        uploadArea.addEventListener('dragleave', () => {
+            uploadArea.classList.remove('dragover');
+        });
+
+        uploadArea.addEventListener('drop', (e) => {
+            e.preventDefault();
+            uploadArea.classList.remove('dragover');
+            
+            const files = e.dataTransfer.files;
+            if (files.length > 0) {
+                handleFileSelect(files[0]);
+            }
+        });
+
+        // Click to select file
+        uploadArea.addEventListener('click', () => {
+            if (!filePreview.classList.contains('hidden')) return;
+            fileInput.click();
+        });
+
+        // File input change
+        fileInput.addEventListener('change', (e) => {
+            if (e.target.files.length > 0) {
+                handleFileSelect(e.target.files[0]);
+            }
+        });
+
+        // Change file button
+        changeFileBtn.addEventListener('click', () => {
+            fileInput.click();
+        });
+
+        function handleFileSelect(file) {
+            if (!file.name.toLowerCase().endsWith('.csv')) {
+                alert('Please select a valid CSV file.');
+                return;
+            }
+
+            fileName.textContent = file.name;
+            fileSize.textContent = `${(file.size / 1024).toFixed(1)} KB`;
+            
+            uploadContent.classList.add('hidden');
+            filePreview.classList.remove('hidden');
+        }
+
+        // Form submission with loading animation
+        document.getElementById('uploadForm').addEventListener('submit', (e) => {
+            if (!fileInput.files || fileInput.files.length === 0) {
+                e.preventDefault();
+                alert('Please select a CSV file before uploading.');
+                return;
+            }
+
+            const file = fileInput.files[0];
+            if (!file.name.toLowerCase().endsWith('.csv')) {
+                e.preventDefault();
+                alert('Please select a valid CSV file.');
+                return;
+            }
+
+            // Show loading overlay
+            document.getElementById('loadingOverlay').classList.remove('hidden');
+            uploadBtn.disabled = true;
+            uploadBtnText.textContent = 'Processing...';
+
+            // Simulate progress
+            const progressBar = document.getElementById('progressBar');
+            const progressText = document.getElementById('progressText');
+            
+            const progressSteps = [
+            { width: 10, text: 'Reading CSV file...' },
+            { width: 20, text: 'Mapping processes with AI...' },
+            { width: 30, text: 'Calculating eco costs...' },
+            { width: 40, text: 'Going for a walk on the forest...' },
+            { width: 50, text: 'Making everything more realistic...' },
+            { width: 60, text: 'Seeking life\'s meaning...' },
+            { width: 70, text: 'Waiting for the sauna to heat up...' },
+            { width: 80, text: 'Asking AI for this line of dialog...' },
+            { width: 90, text: 'Turning sentient...' },
+            { width: 100, text: 'Finalizing dashboard...' }
+        ];
+
+            progressSteps.forEach((step, index) => {
+                setTimeout(() => {
+                    progressBar.style.width = step.width + '%';
+                    progressText.textContent = step.text;
+                }, index * 2000);
+            });
+        });
+
+        // Tab functionality
+        const tabBtns = document.querySelectorAll('.tab-btn');
+        const tabPanels = document.querySelectorAll('.tab-panel');
+
+        tabBtns.forEach(btn => {
+            btn.addEventListener('click', () => {
+                const targetTab = btn.dataset.tab;
+                
+                // Update active tab button
+                tabBtns.forEach(b => {
+                    b.classList.remove('active', 'border-cyan-primary', 'text-cyan-primary');
+                    b.classList.add('border-transparent', 'text-text-light');
+                });
+                btn.classList.add('active', 'border-cyan-primary', 'text-cyan-primary');
+                btn.classList.remove('border-transparent', 'text-text-light');
+                
+                // Show target panel
+                tabPanels.forEach(panel => {
+                    panel.classList.add('hidden');
+                });
+                document.getElementById(targetTab + '-tab').classList.remove('hidden');
+            });
+        });
+
+    </script>
 </body>
-</html> 
+</html>
