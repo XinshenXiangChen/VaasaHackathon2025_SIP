@@ -78,6 +78,12 @@
             margin: 0; /* remove default h1 margin inside bar */
             font-size: 28px; /* optional: adjust font size */
         }
+        .title-date {
+            font-size: 16px;
+            color: white;
+            margin-top: 8px; /* space below the title */
+        }
+
 
 
         .upload-form {
@@ -186,6 +192,9 @@
         <div class="container">
             <div class="title-bar">
                 <h1>CSV Data Upload</h1>
+                <div class="title-date">
+                    {% now "j M" %}
+                </div>
             </div>
 
             <!-- Messages -->
