@@ -69,14 +69,13 @@ Por favor, mapea cada item a su proceso más similar en Idemat2025. Responde SOL
 
     try:
         completion = client.chat.completions.create(
-            model="meta-llama/llama-3.3-8b-instruct:free",
+            model="mistralai/mistral-7b-instruct:free",
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_message}
             ],
             temperature=0.3,  # Temperatura moderada para mejor creatividad
-            max_tokens=2000,
-            stream=True  # <- modo streaming
+            max_tokens=2000
         )
 
         response_content = completion.choices[0].message.content
