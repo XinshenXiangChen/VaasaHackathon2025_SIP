@@ -1,7 +1,7 @@
 ﻿from django.shortcuts import render, redirect
-import grafana_api
 import pandas as pd
-from django.utils import timezone
+from . import grafana
+import json
 
 from .llm import load_items_from_csv, map_items_to_idemat
 from .models import Proces, UploadedData  # Add UploadedData import
@@ -13,6 +13,7 @@ def visualization(request):
     return render(request, 'visualization.html')  # Empty container page for now
 
 def index(request):
+    # Create dashboard on grafana
     return render(request, 'index.html')
 
 def upload_csv(request):
@@ -147,6 +148,10 @@ def upload_csv(request):
             'saved_count': saved_count,
             'total_records': len(df_result)
         }
+
+    with open("../base_dashboard.json") as file:
+        json_dashboard = json.load(file)
+        grafana.make_dashboard("sustainaibility_dashboard", "fezd6aiy8s6ioc", json_dashboard)
 
     #return render(request, 'index.html', context)
     return redirect('visualization')
