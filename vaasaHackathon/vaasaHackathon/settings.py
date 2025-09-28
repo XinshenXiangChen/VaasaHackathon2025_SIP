@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-%dlb1+g=9%&11yilfws3uh@rxscku%$o&7_o7=f6o8(-x(+wc&
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
@@ -50,7 +50,11 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    "whitenoise.middleware.WhiteNoiseMiddleware",
 ]
+
+STATIC_ROOT = BASE_DIR / "staticfiles"
+
 
 ROOT_URLCONF = 'vaasaHackathon.urls'
 
