@@ -7,16 +7,64 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
+            margin: 0;
+            padding: 0;
             background-color: #f5f5f5;
+            height: 100vh;
         }
+
+        /* Layout container (holds sidebar + main content) */
+        .layout {
+            display: flex;
+            height: 100vh; /* full height */
+            width: 100vw;
+        }
+
+        /* Sidebar */
+        .sidebar {
+            width: 220px; /* fixed sidebar width */
+            background-color: #1e3a5f; /* dark sidebar */
+            color: white;
+            padding: 20px;
+            box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+        }
+
+        /* Sidebar heading */
+        .sidebar h2 {
+            margin-bottom: 20px;
+            font-size: 32px;
+            padding-bottom: 10px;
+        }
+
+        /* Sidebar list */
+        .sidebar ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .sidebar ul li {
+            margin: 15px 0;
+        }
+
+        /* Sidebar links */
+        .sidebar ul li a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+            transition: color 0.3s;
+            font-size: 24px;
+        }
+        .sidebar ul li a:hover {
+            color: #1abc9c; /* nice teal highlight */
+        }
+
         .container {
+            flex: 1;
             background: white;
             padding: 30px;
-            border-radius: 8px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            border-radius: 0;
+            box-shadow: none;
+            overflow-y: auto;
         }
         .upload-form {
             border: 2px dashed #ddd;
@@ -109,32 +157,45 @@
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1>CSV Data Upload</h1>
-        
-        <!-- Messages -->
-        {% if messages %}
-        <div class="messages">
-            {% for message in messages %}
-            <div class="message {{ message.tags }}">
-                {{ message }}
-            </div>
-            {% endfor %}
-        </div>
-        {% endif %}
-        
-        <!-- Upload Form -->
-        <form method="post" action="{% url 'upload_csv' %}" enctype="multipart/form-data" id="uploadForm">
-            {% csrf_token %}
-            <div class="upload-form" id="dropZone">
-                <h3>Upload CSV File</h3>
-                <p>Drag and drop your CSV file here or click to select</p>
-                <div class="file-input">
-                    <input type="file" name="csv_file" id="csvFile" accept=".csv" required>
+    <div class="layout">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <h2>Menu</h2>
+            <ul>
+                <li><a href="#">Upload</a></li>
+                <li><a href="#">Recent Uploads</a></li>
+                <li><a href="#">API Docs</a></li>
+            </ul>
+        </aside>
+        <!-- End of Sidebar -->
+
+        <div class="container">
+            <h1>CSV Data Upload</h1>
+
+            <!-- Messages -->
+            {% if messages %}
+            <div class="messages">
+                {% for message in messages %}
+                <div class="message {{ message.tags }}">
+                    {{ message }}
                 </div>
-                <button type="submit" class="btn">Upload CSV</button>
+                {% endfor %}
             </div>
-        </form>
+            {% endif %}
+
+            <!-- Upload Form -->
+            <form method="post" action="{% url 'upload_csv' %}" enctype="multipart/form-data" id="uploadForm">
+                {% csrf_token %}
+                <div class="upload-form" id="dropZone">
+                    <h3>Upload CSV File</h3>
+                    <p>Drag and drop your CSV file here or click to select</p>
+                    <div class="file-input">
+                        <input type="file" name="csv_file" id="csvFile" accept=".csv" required>
+                    </div>
+                    <button type="submit" class="btn">Upload CSV</button>
+                </div>
+            </form>
+        </div>
     </div>
 </body>
 </html> 

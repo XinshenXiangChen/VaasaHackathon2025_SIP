@@ -10,6 +10,7 @@ django.setup()
 file_path = "C:/Users/anoua/OneDrive/Escritorio/Hackathons/Junction/idemat2025_db.xlsx"
 
 # Read the first sheet
+
 ds = pd.read_excel(file_path, usecols = "C,E,F,G,H,I,J,K,L,M", header=None)
 ds = ds.drop(1)
 ds = ds.drop(2)
@@ -36,3 +37,4 @@ for i,row in enumerate(ds.itertuples(index = False)):
 
 for proces in Proces.objects.all():
     print(proces.lci_number, proces.process_name, proces.total_eco_costs)
+
