@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visualization</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            height: 100vh;
+        }
+
+        .layout {
+            display: flex;
+            height: 100vh;
+            width: 100vw;
+        }
+
+        .sidebar {
+            width: 220px;
+            background-color: #001b3a;
+            color: white;
+            padding: 20px;
+            box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+        }
+
+        .sidebar h2 {
+            margin-bottom: 20px;
+            font-size: 32px;
+            padding-bottom: 10px;
+        }
+
+        .sidebar ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .sidebar ul li {
+            margin: 15px 0;
+        }
+
+        .sidebar ul li a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+            transition: color 0.3s;
+            font-size: 24px;
+        }
+
+        .sidebar ul li a:hover {
+            color: #1abc9c;
+        }
+
+        .container {
+            flex: 1;
+            background: white;
+            padding: 30px;
+            border-radius: 0;
+            box-shadow: none;
+            overflow-y: auto;
+        }
+
+        .title-bar {
+            background-color: #001b3a;
+            color: white;
+            padding: 15px 20px;
+            border-radius: 8px 8px 0 0;
+            margin-bottom: 20px;
+        }
+
+        .title-bar h1 {
+            margin: 0;
+            font-size: 28px;
+        }
+
+        .title-date {
+            font-size: 16px;
+            color: white;
+            margin-top: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="layout">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <h2>Menu</h2>
+            <ul>
+                <li><a href="{% url 'index' %}">Upload</a></li>
+                <li><a href="#">Recent Uploads</a></li>
+                <li><a href="#">Visualisation</a></li>
+            </ul>
+        </aside>
+
+        <!-- Main Container -->
+        <div class="container">
+            <div class="title-bar">
+                <h1>Visualization</h1>
+                <div class="title-date">
+                    <!-- You can add a date or leave blank -->
+                </div>
+            </div>
+
+            <!-- Empty content for now -->
+            <p>Your visualizations will appear here after processing the CSV.</p>
+        </div>
+    </div>
+</body>
+</html>

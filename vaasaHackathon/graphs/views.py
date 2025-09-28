@@ -1,4 +1,4 @@
-﻿from django.shortcuts import render
+﻿from django.shortcuts import render, redirect
 import grafana_api
 import pandas as pd
 from django.utils import timezone
@@ -8,6 +8,9 @@ from .models import Proces, UploadedData  # Add UploadedData import
 
 
 # Create your views here.
+
+def visualization(request):
+    return render(request, 'visualization.html')  # Empty container page for now
 
 def index(request):
     return render(request, 'index.html')
@@ -145,7 +148,8 @@ def upload_csv(request):
             'total_records': len(df_result)
         }
 
-    return render(request, 'index.html', context)
+    #return render(request, 'index.html', context)
+    return redirect('visualization')
 
 def api_upload_csv(request):
     # API endpoint for CSV upload
