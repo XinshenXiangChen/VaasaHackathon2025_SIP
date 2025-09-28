@@ -128,6 +128,10 @@
       "pluginVersion": "12.1.0",
       "targets": [
         {
+          "datasource": {
+            "type": "grafana-postgresql-datasource",
+            "uid": "wartsila_fibers"
+          },
           "editorMode": "builder",
           "format": "table",
           "rawSql": "SELECT carbon_dioxide FROM uploaded_data LIMIT 50 ",
@@ -154,11 +158,7 @@
             ],
             "limit": 50
           },
-          "table": "uploaded_data",
-          "datasource": {
-            "type": "grafana-postgresql-datasource",
-            "uid": "wartsila_fibers"
-          }
+          "table": "uploaded_data"
         }
       ],
       "title": "Total carbon dioxide",
@@ -222,6 +222,10 @@
       "pluginVersion": "12.1.0",
       "targets": [
         {
+          "datasource": {
+            "type": "grafana-postgresql-datasource",
+            "uid": "wartsila_fibers"
+          },
           "editorMode": "builder",
           "format": "table",
           "rawSql": "SELECT total_eco_costs FROM uploaded_data LIMIT 50 ",
@@ -248,11 +252,7 @@
             ],
             "limit": 50
           },
-          "table": "uploaded_data",
-          "datasource": {
-            "type": "grafana-postgresql-datasource",
-            "uid": "wartsila_fibers"
-          }
+          "table": "uploaded_data"
         }
       ],
       "title": "Total eco costs",
@@ -309,6 +309,10 @@
       "pluginVersion": "12.1.0",
       "targets": [
         {
+          "datasource": {
+            "type": "grafana-postgresql-datasource",
+            "uid": "wartsila_fibers"
+          },
           "editorMode": "builder",
           "format": "table",
           "rawSql": "SELECT category, carbon_dioxide FROM uploaded_data GROUP BY carbon_dioxide, category LIMIT 50 ",
@@ -357,11 +361,7 @@
               "type": "group"
             }
           },
-          "table": "uploaded_data",
-          "datasource": {
-            "type": "grafana-postgresql-datasource",
-            "uid": "wartsila_fibers"
-          }
+          "table": "uploaded_data"
         }
       ],
       "title": "CO2 Emissions by Category",
@@ -429,6 +429,10 @@
       "pluginVersion": "12.1.0",
       "targets": [
         {
+          "datasource": {
+            "type": "grafana-postgresql-datasource",
+            "uid": "wartsila_fibers"
+          },
           "editorMode": "builder",
           "format": "table",
           "rawSql": "SELECT eco_costs_e1 AS \"E1\", eco_costs_e2 AS \"E2\", eco_costs_e3 AS \"E3\", eco_costs_e4 AS \"E4\", eco_costs_e5 AS \"E5\" FROM uploaded_data LIMIT 50 ",
@@ -489,11 +493,7 @@
             "groupBy": [],
             "limit": 50
           },
-          "table": "uploaded_data",
-          "datasource": {
-            "type": "grafana-postgresql-datasource",
-            "uid": "wartsila_fibers"
-          }
+          "table": "uploaded_data"
         }
       ],
       "title": "Eco cost mean values",
@@ -588,6 +588,18 @@
                 "value": 418
               }
             ]
+          },
+          {
+            "matcher": {
+              "id": "byName",
+              "options": "unit"
+            },
+            "properties": [
+              {
+                "id": "custom.width",
+                "value": 48
+              }
+            ]
           }
         ]
       },
@@ -624,9 +636,10 @@
             "type": "grafana-postgresql-datasource",
             "uid": "wartsila_fibers"
           },
-          "editorMode": "builder",
+          "editorMode": "code",
           "format": "table",
-          "rawSql": "SELECT name, category, quantity, carbon_dioxide, total_eco_costs, eco_costs_e1, eco_costs_e2, eco_costs_e3, eco_costs_e4, eco_costs_e5 FROM uploaded_data LIMIT 50 ",
+          "rawQuery": true,
+          "rawSql": "SELECT name, category, unit, quantity, carbon_dioxide, total_eco_costs, eco_costs_e1, eco_costs_e2, eco_costs_e3, eco_costs_e4, eco_costs_e5 FROM uploaded_data LIMIT 50 ",
           "refId": "A",
           "sql": {
             "columns": [
@@ -748,7 +761,7 @@
   "timepicker": {},
   "timezone": "browser",
   "title": "Sustainability dashboard",
-  "uid": "719525f5-cd9c-429c-bb22-796dfc86e01e",
-  "version": 8,
+  "uid": "sustainaibility_dashboard",
+  "version": 2,
   "weekStart": ""
 }
