@@ -3,102 +3,179 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Visualization</title>
+    <title>FIBERS S.A Dashboard - Visualization</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'dark-bg': '#0d1117',
+                        'dark-sidebar': '#111827',
+                        'dark-card': '#161b22',
+                        'dark-border': '#30363d',
+                        'text-light': '#d1d5db',
+                        'text-white': '#ffffff',
+                        'cyan-primary': '#06b6d4',
+                        'cyan-hover': '#0891b2',
+                        'navy-blue': '#1e3a8a',
+                        'success-green': '#10b981',
+                        'warning-orange': '#f59e0b',
+                        'error-red': '#ef4444'
+                    }
+                }
+            }
+        }
+    </script>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f5f5f5;
-            height: 100vh;
+        /* Custom scrollbar */
+        ::-webkit-scrollbar {
+            width: 6px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #111827;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #374151;
+            border-radius: 3px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #4b5563;
         }
 
-        .layout {
-            display: flex;
-            height: 100vh;
-            width: 100vw;
+        /* Smooth transitions */
+        * {
+            transition: all 0.2s ease-in-out;
         }
 
-        .sidebar {
-            width: 220px;
-            background-color: #181b1f;
-            color: white;
-            padding: 20px;
-            box-shadow: 2px 0 5px rgba(0,0,0,0.1);
-        }
-
-        .sidebar h2 {
-            margin-bottom: 20px;
-            font-size: 32px;
-            padding-bottom: 10px;
-        }
-
-        .sidebar ul {
-            list-style: none;
-            padding: 0;
-        }
-
-        .sidebar ul li {
-            margin: 15px 0;
-        }
-
-        .sidebar ul li a {
-            color: white;
-            text-decoration: none;
-            font-weight: bold;
-            transition: color 0.3s;
-            font-size: 24px;
-        }
-
-        .sidebar ul li a:hover {
-            color: #1abc9c;
-        }
-
-        .container {
-            flex: 1;
-            background: white;
-            padding: 0px;
-            border-radius: 0;
-            box-shadow: none;
-            overflow-y: auto;
-        }
-
-        .title-bar {
-            background-color: #001b3a;
-            color: white;
-            padding: 15px 20px;
-            border-radius: 8px 8px 0 0;
-            margin-bottom: 20px;
-        }
-
-        .title-bar h1 {
-            margin: 0;
-            font-size: 28px;
-        }
-
-        .title-date {
-            font-size: 16px;
-            color: white;
-            margin-top: 8px;
+        /* Mobile sidebar */
+        @media (max-width: 1024px) {
+            .sidebar {
+                transform: translateX(-100%);
+                transition: transform 0.3s ease-in-out;
+            }
+            .sidebar.open {
+                transform: translateX(0);
+            }
         }
     </style>
 </head>
-<body>
-    <div class="layout">
+<body class="bg-dark-bg text-text-light min-h-screen">
+    <!-- Main Layout Container -->
+    <div class="flex h-screen overflow-hidden">
         <!-- Sidebar -->
-        <aside class="sidebar">
-            <h2>Menu</h2>
-            <ul>
-                <li><a href="{% url 'index' %}">Upload</a></li>
-                <li><a href="{% url 'visualization' %}">Visualisation</a></li>
+        <aside id="sidebar" class="bg-dark-sidebar w-64 flex-shrink-0 flex flex-col shadow-xl lg:translate-x-0">
+            <!-- Logo Section -->
+            <div class="p-6 border-b border-dark-border">
+                <div class="flex items-center space-x-3">
+                    <div class="w-10 h-10 bg-gradient-to-br from-cyan-primary to-cyan-hover rounded-lg flex items-center justify-center">
+                        <i data-lucide="leaf" class="w-6 h-6 text-white"></i>
+                    </div>
+                    <div>
+                        <h1 class="text-xl font-bold text-text-white">FIBERS S.A</h1>
+                        <p class="text-sm text-text-light">Dashboard</p>
+                    </div>
+                </div>
+            </div>
 
-            </ul>
+            <!-- Navigation Menu -->
+            <nav class="flex-1 p-4 space-y-2">
+                <a href="{% url 'index' %}" class="nav-item flex items-center space-x-3 px-4 py-3 rounded-lg hover:bg-dark-card text-text-light hover:text-text-white">
+                    <i data-lucide="upload" class="w-5 h-5"></i>
+                    <span class="font-medium">Upload</span>
+                </a>
+                <a href="{% url 'visualization' %}" class="nav-item active flex items-center space-x-3 px-4 py-3 rounded-lg bg-cyan-primary/20 text-cyan-primary border border-cyan-primary/30">
+                    <i data-lucide="bar-chart-3" class="w-5 h-5"></i>
+                    <span class="font-medium">Visualization</span>
+                </a>
+                <a href="#" class="nav-item flex items-center space-x-3 px-4 py-3 rounded-lg hover:bg-dark-card text-text-light hover:text-text-white">
+                    <i data-lucide="settings" class="w-5 h-5"></i>
+                    <span class="font-medium">Settings</span>
+                </a>
+                <a href="#" class="nav-item flex items-center space-x-3 px-4 py-3 rounded-lg hover:bg-dark-card text-text-light hover:text-text-white">
+                    <i data-lucide="help-circle" class="w-5 h-5"></i>
+                    <span class="font-medium">Help</span>
+                </a>
+            </nav>
+
+            <!-- User Profile Section -->
+            <div class="p-4 border-t border-dark-border">
+                <div class="flex items-center space-x-3">
+                    <div class="w-8 h-8 bg-gradient-to-br from-cyan-primary to-cyan-hover rounded-full flex items-center justify-center">
+                        <i data-lucide="user" class="w-4 h-4 text-white"></i>
+                    </div>
+                    <div class="flex-1 min-w-0">
+                        <p class="text-sm font-medium text-text-white truncate">Admin User</p>
+                        <p class="text-xs text-text-light truncate">admin@fibers.com</p>
+                    </div>
+                </div>
+            </div>
         </aside>
 
-        <!-- Main Container -->
-        <div class="container">
-            <iframe src="http://localhost:3000/dashboard/snapshot/Ad4XA5PvFub1q4ESc3TrIaNaiFyHabj6" style="width: 100%; height: 100%;"></iframe>
+        <!-- Main Content Area -->
+        <div class="flex-1 flex flex-col overflow-hidden">
+            <!-- Top Navigation Bar -->
+            <header class="bg-dark-card border-b border-dark-border px-6 py-4">
+                <div class="flex items-center justify-between">
+                    <div class="flex items-center space-x-4">
+                        <button id="sidebar-toggle" class="lg:hidden p-2 rounded-lg hover:bg-dark-bg">
+                            <i data-lucide="menu" class="w-5 h-5"></i>
+                        </button>
+                        <div>
+                            <h2 class="text-xl font-semibold text-text-white">Data Visualization</h2>
+                            <p class="text-sm text-text-light">Interactive dashboards and analytics</p>
+                        </div>
+                    </div>
+                    <div class="flex items-center space-x-4">
+                        <div class="text-sm text-text-light">
+                            <i data-lucide="calendar" class="w-4 h-4 inline mr-1"></i>
+                            {% now "M d, Y" %}
+                        </div>
+                        <div class="w-8 h-8 bg-gradient-to-br from-cyan-primary to-cyan-hover rounded-full flex items-center justify-center cursor-pointer hover:scale-105">
+                            <i data-lucide="bell" class="w-4 h-4 text-white"></i>
+                        </div>
+                    </div>
+                </div>
+            </header>
+
+            <!-- Main Content - Grafana Dashboard -->
+            <main class="flex-1 overflow-hidden">
+                <iframe src="http://localhost:3000/dashboard/snapshot/Ad4XA5PvFub1q4ESc3TrIaNaiFyHabj6" 
+                        style="width: 100%; height: 100%; border: none;" 
+                        title="FIBERS S.A Analytics Dashboard">
+                </iframe>
+            </main>
+
+            <!-- Footer -->
+            <footer class="bg-dark-card border-t border-dark-border px-6 py-4">
+                <div class="flex items-center justify-between text-sm text-text-light">
+                    <div class="flex items-center space-x-4">
+                        <span>© 2025 FIBERS S.A Dashboard</span>
+                        <span>•</span>
+                        <span>Version 1.0.0</span>
+                    </div>
+                    <div class="flex items-center space-x-4">
+                        <a href="#" class="hover:text-cyan-primary">Privacy Policy</a>
+                        <span>•</span>
+                        <a href="#" class="hover:text-cyan-primary">Terms of Service</a>
+                    </div>
+                </div>
+            </footer>
         </div>
     </div>
+
+    <script>
+        // Initialize Lucide icons
+        lucide.createIcons();
+
+        // Sidebar toggle for mobile
+        const sidebarToggle = document.getElementById('sidebar-toggle');
+        const sidebar = document.getElementById('sidebar');
+        
+        sidebarToggle?.addEventListener('click', () => {
+            sidebar.classList.toggle('open');
+        });
+    </script>
 </body>
 </html>

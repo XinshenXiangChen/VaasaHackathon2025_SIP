@@ -22,6 +22,7 @@ def upload_csv(request):
         uploaded_file = request.FILES["csv_file"]
         csv_items = load_items_from_csv(uploaded_file)
         result = map_items_to_idemat(csv_items["Issue"].tolist(), topn=20)
+        print("left ai")
         # Read file contents
         
         # unit_list =

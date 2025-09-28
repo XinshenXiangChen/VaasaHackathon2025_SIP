@@ -112,7 +112,6 @@ Por favor, mapea cada item a su proceso más similar en Idemat2025. Responde SOL
 def map_items_to_idemat(items, topn=20):
     print("with ai")
     payload = build_prompt(items, topn=topn)
-    print("left ai")
     return call_llm(SYSTEM_PROMPT, payload)
 
 
