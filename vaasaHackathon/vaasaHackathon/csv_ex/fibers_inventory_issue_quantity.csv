@@ -1,0 +1,42 @@
+Issue,Quantity
+CEO company car diesel,35000000
+Management fleet petrol,120000000
+Electric company cars (fleet),18000000
+Consultants visiting clients diesel,61920000
+Consultants visiting clients petrol,144480000
+Consultants visiting clients BEV,12000000
+Train rides to customers,22000
+Short distance flights (Europe),8200
+Overseas business flights,18500
+Staff commuting by diesel car,103200000
+Staff commuting by petrol car,206400000
+Employees commuting by train,175000
+Employees commuting with EVs,38000000
+Bicycles used by employees,4000
+Backup diesel gensets for emergencies,3400000
+Lubricants for turbines,45000
+Gas turbines startup fuel,5200000
+Coal handling machines,220000
+Company owned forklifts (LPG),48000
+Company vans for operations,16000000
+Electricity purchased from national grid,200000
+Electricity from rooftop solar,30000
+Imported electricity from neighboring country,40000
+Natural gas for office heating,4200
+Heating oil for rural substations,1800
+Electric heating for data center,6500
+Office paper for administration,3250
+Internet use by employees,14750
+Cloud storage for technical docs,60
+Company laptops for staff,25
+Desktop computers for engineers,15
+Mobile phones for field technicians,50
+High-voltage transformers for grid,25
+Copper cables for grid expansion,5000
+Spare parts for wind turbines,2400
+New PV panels for replacements,3000
+Protective clothing for workers,800
+Consulting and outsourced maintenance,4500
+Advertising and communication,600
+Employee catering (canteen),1500
+Employee bottled water consumption,900

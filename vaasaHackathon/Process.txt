@@ -1,0 +1,2322 @@
+Leather Chrome tanning - hides from Argentia
+Leather Vegetable tanning - hides from Europe
+Wool (from Australia transported to Rotterdam)
+Wool at farm Australia
+wool, greasy, at farm Australia
+Crude palm kernel oil refined
+Palm kernel oil - crude from trees
+Potatoe starch DE
+Potatoes DE
+Rape cake Europe
+Soy meal at coast Brazil
+Soy meal at coast USA
+Soy oil - refined at coast Brazil
+Soy oil - refined at coast USA
+Soybean grain - harvested and transported to coast Brazil
+Soybean grain - harvested and transported to coast USA
+Soybean oil crude - degummed at coast Brazil
+Soybean oil, crude - degummed at coast USA
+Palm oil in Rotterdam
+Rape oil Europe
+Soybean oil from Brazil in Rotterdam
+Soybean oil from USA in Rotterdam
+bio-Cotton China
+bio-Cotton India
+bio-Cotton USA
+Cotton China
+Cotton India
+Cotton trade mix China - India - USA
+Cotton USA
+Jute fibres  Bangladesh - rainfed
+Jute fibres trade mix
+Jute fibres Bangladesh
+Jute fibres India
+Jute fibres India - rainfed
+Kenaf fibres Italy
+Kenaf fibres India
+Linseed produced in region
+European Flax scutched - long fibres (12% moisture content)
+Alumina
+Boron Carbide
+Germanium
+Glaze (in addition to Porcelain and Stoneware)
+Porcelain
+PZT Piezo-electric ceramic
+Silicon (purified) for electronics and PV cells
+Silicon carbide
+Silicon Nitride
+Stoneware
+Tungsten Carbide
+Zirconia
+HCL (hydrochloric acid)
+Nitric acid
+Phosphoric acid
+Sulphuric acid
+Boric acid
+Acetic acid trade mix
+Acetic Anhydride trade mix
+Acetic Anhydride Halcon process
+Acetic Anhydride Ketene process
+Chloroacetic acid (1)
+Maleic acid
+Adipic acid
+Methacrylic acid
+Fertilizer-N
+Fertilizer-P
+Fertilizer-K
+Argon
+Carbon dioxide liquid
+Carbon monoxide
+Chlorine (US 2011)
+Chlorine (Plasticseurope 2013)
+Chlorine (European Chlor-Alkali Industry 2022)
+Chlorine (average of USLCI - Plasticseurope - EU chlor-alkali ind.)
+Hydrogen - methane to hydrogen (SMR)
+Nitrogen liquid
+Oxigen liquid
+Hydrogen - PEM electrolyzer - electricity from grid average
+Hydrogen - PEM electrolyzer - electricity from offshore wind
+Hydrogen liquefaction - electricity from the grid average
+Ammonia
+Carbon black
+Cobalt oxide (CoO)
+Graphite for batteries
+H2O2 - hydrogen peroxide 70% in H2O
+Hydrogen Sulfide
+KOH - Potassium hydroxide
+Lime
+Manganese dioxide
+Nickel in FerroNickel (27%)
+Nickel in Nickel Sufate (22%) for car batteries
+Quicklime
+Silicagel
+Sodium Carbonate  (soda Na2CO3)
+Sodium Chloride (US)
+Sodium Chloride - NaCl (plasticseurope)
+Sodium Chlorite
+Sodium Cumenesulphonate
+Sodium Hydroxide (US 2011)
+Sodium Hydroxide - NaOH (European Chlor-Alkali Industry 2022)
+Sodium Hydroxide - NaOH (Plasticseurope 2013)
+Sodium Hydroxide - NaOH (average of USLCI - Plasticseurope - EU Chlor-Alkali ind.)
+Sodium Hypochlorite - NaOCl (European Chlor-Alkali Industry 2022)
+Sodium Hypochlorite - NaOCl (Plasticseurope 2013)
+Sodium Silicate
+Sodium Sulphate
+Sulphur
+Titanium dioxide
+Urea (AdBlue)
+V2O5 - Vanadium pentoxide
+Zinc Oxide
+LiFePO4 (lithium iron phosphate - LFP)
+Chromium oxide
+Magnesium oxide
+Ferric Chloride
+Talc (Talcum) in Rotterdam
+Acetone
+Acetylene (Ethyne)
+Acrylonitrile
+Alkenyl Succinic Anhydride (ASA)
+Alkyl Ketene Dimer (AKD)
+Benzene
+Butadiene
+Butane
+Cumene hydroperoxide
+Diethylene glycol (DEG)
+Dipropylene glycol monomethyl ether
+Ethanol (alcohol) bio-based from agricultural waste
+Ethanol (alcohol) synthetic
+Ethylbenzene
+Ethylene (Ethene)
+Ethylene dichloride
+Ethylene oxide
+Methanol
+Methylamine
+Monoethylene glycol (MEG)
+Pentane blowing agent
+Propane
+Propylene (Propene)
+Phenol
+Rosin
+Styrene
+Toluene
+Triethylene glycol (TEG)
+Xylene
+Acrylonitrile from propylene ammoxidation
+Acetonitrile from propylene ammoxidation
+Hydrogen cyanide from propylene ammoxidation
+Grease - Lithium-based
+Grease - polymer (Polyalphaolefin + polypropylene)
+EMAA (Ethylene-Methacrylic Acid Copolymer) without water
+Carnauba Wax from Brazil in Rotterdam (De Monchy)
+1-Butanol
+1-Pentanol
+1.4-Dioxane
+2-Butanol
+2-Methyl-1-butanol
+2-Methyl-1-propanol
+2-Methyl-2-butanol
+2-Methylpentane
+3-Methyl-1-butanol
+3-Methyl-1-butyl acetate
+4-Methyl-2-pentanone
+Acetic acid
+Acetone
+Benzal chloride
+Benzaldehyde
+Benzene chlorination (per kg benzene)
+Benzyl alcohol
+Benzyl chloride
+Butane-1.4-diol
+Butane-1.4-diol dehydrogenation
+Butane oxidation
+Butanes from butene
+Butene hydration
+Butene hydroformylation
+Butyl acetate
+Butyrolactone
+Cyclohexane
+Cyclohexanone
+Ethanol from ethylene
+Diethyl ether
+Dimethyl sulfoxide
+Dimethylamine
+Ethyl acetate from ethanol and acetic acid
+Ethyl acetate from Butane oxidation
+Ethyl acetate, from Ethyl Alcohol
+Ethylene glycol diethyl ether
+Ethylene glycol dimethyl ether
+Ethylene glycol monoethyl ether
+Ethylene hydration
+Formic acid by butane oxidation
+Formic acid by methyl formate hydrolysis
+Hydrochloric acid (better is A.030.02.101. of plastic europe)
+Hydrogen from Reppe process
+Isobutyl acetate
+Isopropyl acetate
+Methyl acetate
+Methyl ethyl ketone
+Methyl formate
+Methylcyclohexane
+Monochlorobenzene
+N-Dimethyl-2-pyrrolidone
+N.N-Dimethylformamide
+o-dichlorobenzene
+p-dichlorobenzene
+Propanal
+Propanol
+Propylene ammooxidation
+Propylene hydroformylation
+Tetrahydrofuran
+Pesticides (unspecified)
+Benomyl (1-(Butylcarbamoyl)-1H-1,3-benzimidazol-2-yl methylcarbamate)
+Captan ((3aR,7aS)-2-[(Trichloromethyl)sulfanyl]-3a,4,7,7a-tetrahydro-1H-isoindole-1.3
+Ferbam (Iron(III) Dimethyldithiocarbamate)
+Maneb ( [[2-[(Dithio Carboxyl)amino]ethyl]carbodithioate]](2-)-kS,kS']manganese)
+2,4-D (2,4-Dichlorophenoxyacetic acid)
+2,4,5-T (2,4,5-Trichlorophenoxyacetic acid)
+Alachlor (2-Chloro-N-(2,6-diethylphenyl)-N-(methoxymethyl)acetamide)
+Bentazone (3-isopropyl-2,1,3-benzothiadiazine-4-one-2,2-dioxide)
+Butylate (Butylated hydroxytoluene 2,6-Di-tert-butyl-4-methylphenol)
+Chloramben (3-Amino-2,5-dichlorobenzoic acid)
+Chlorsulfuron (2-chloro-N-[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)carbamoyl]benzene-1
+Cyanazine (2-[[4-Chloro-6-(ethylamino)-1,3,5-triazin-2-yl]amino]-2-methylpropanenitri
+Dicamba (3,6-Dichloro-2-methoxybenzoic acid)
+Dinoseb (2-(Butan-2-yl)-4,6-dinitrophenol)
+Diquat (6,7-dihydrodipyrido[1,2-a:2',1'-c]pyrazine-5,8-diium dibromide)
+Diuron, DCMU (3-(3,4-dichlorophenyl)-1,1-dimethylurea)
+EPTC ( S-Ethyl dipropylthiocarbamate)
+Fluazifop-butyl ( (2R)-2-(4-([5-(trifluoromethyl)-2-pyridyl]oxy)phenoxy)propanoic aci
+Fluometuron (N,N-Dimethyl-N'-[3-(trifluoromethyl)phenyl]urea)
+Glyphosate (N-(Phosphonomethyl)glycine)
+Linuron (3-(3,4-dichlorophenyl)-1-methoxy-1-methylurea)
+MCPA (2-methyl-4-chlorophenoxyacetic acid)
+Metolachlor ((RS)-2-Chloro-N-(2-ethyl-6-methyl-phenyl)-N-(1-methoxypropan-2-yl)acetam
+Paraquat (1,1'-Dimethyl[4,4'-bipyridine]-1,1'-diium dichloride)
+Propachlor (2-Chloro-N-phenyl-N-(propan-2-yl)acetamide)
+Propanil (N-(3,4-Dichlorophenyl)propanamide)
+Trifluralin (2,6-Dinitro-N,N-dipropyl-4-(trifluoromethyl)aniline)
+Carbaryl (Naphthalen-1-yl methylcarbamate)
+Carbofuran (2,2-Dimethyl-2,3-dihydro-1-benzofuran-7-yl methylcarbamate)
+Chlordimeform (N'-(4-chloro-2-methylphenyl)-N,N-dimethylmethanimidamide)
+Cypermethrin ([Cyano-(3-phenoxyphenyl)methyl]3-(2,2-dichloroethenyl)-2,2-dimethylcycl
+Lindane (Hexachlorocyclohexane, or benzene hexachloride, BHC)
+Malathion (Diethyl 2-[(dimethoxyphosphorothioyl)sulfanyl]butanedioate)
+Methoxychlor (1,1'-(2,2,2-Trichloroethane-1,1-diyl)bis(4-methoxybenzene))
+Methyl  parathion (O,O-Dimethyl O-4-nitrophenyl phosphorothioate)
+Parathion (O,O-Diethyl O-(4-nitrophenyl) phosphorothioate)
+Phorate (O,O-Diethyl S-[(ethylsulfanyl)methyl] phosphorodithioate)
+Toxaphene (Polychlorocamphene)
+Printing Ink Black - conventional
+Printing Ink Black - UV inkjet
+Printing Ink Magenta - conventional
+Printing Ink Magenta - UV inkjet
+Printing Ink Varnish - conventional
+Printing Ink White - UV inkjet
+R-1234 yf
+R-134a
+R-744 (CO2)
+Carboxymethyl cellulose
+Fluorescent whitening agent DAS1 - triazinylaminostilben type
+Fluorescent whitening agent - distyrylbiphenyl type
+Sodium dodecylbenzenesulfonate
+3-dimethylamino-propylamine
+Aminoethylethanol-amine
+Beef tallow
+C16–C18 fatty alcohol (palm oil)
+C16–C18 fatty alcohol (tallow)
+Chloroacetic acid (2)
+Coconut oil methyl ester
+Cumene
+Diethanolamine
+Dimethylamine (2)
+Dimethylsulfate
+Ethylene oxide (2)
+Hydrogen peroxide
+Palm kernel oil methyl ester
+Palm oil methyl ester
+Triethanolamine
+C12–C13 sodium alkyl ether sulphate. 2 EO
+C12–C14 alcohol ethoxylate. 3 EO
+C12–C14 alcohol ethoxylate. 7 EO
+C12–C14 amine oxide
+C12–C14 sodium alkyl ether sulphate. 2 EO
+C12–C14 sodium alkyl sulphate
+C12–C15 alcohol ethoxylate. 3 EO
+C12–C15 alcohol ethoxylate. 7 EO
+C16–C18 alcohol ethoxylate. > 20 EO
+C16–C18 triethanolamine esterquats
+C8–C18 alkyl amidopropyl betaine
+Cocamide diethanolamine
+Linear alkylbenzene sulphonic acid
+Sodium cocoamphoacetate
+Sodium cumene sulphonate
+Cement (blastfurnace CEM III B 42.5 N)
+Cement (Portland CEM I 52.5 N)
+Gypsum
+Bitumen
+Asphalt
+Red Clay Brick, for housing and roads - packed
+Concrete blocks - light  (439 kg/m3)
+Roof tiles
+Sand-lime bricks - light (600 kg/m3)
+Concrete
+Concrete (reinforced 40 kg steel per 1000 kg)
+cork slab insulation
+glasswool
+stonewool
+Blastfurnace slags
+Clinker
+Crushed concrete aggregate (recycled)
+Gravel
+Ground (earthmoving)
+Linoleum
+Plasticizers for concrete
+Sand
+Solvent based paint transparent - incl evaporation solvent
+Solvent based paint white - incl evaporation solvent
+Water based paint transparent
+Water based paint white
+AA cell battery (Alkaline)
+AA cell battery (Li-ion)
+Computer desktop -  including 27 inch display
+Computer laptop - 15 inch display
+Electric cord, 6A (1320W) 3x0.75 mm2 (per m)
+Electric motor less than 500 W
+LCD flat screen 27 inch -  including casing and electronics
+Lead battery cars (39 Wh per kg)
+LED light bulb 8 watt.
+Lithium-ion LiCoO2 laptop battery (180 Wh/kg)
+Lithium LiFePO4 (145 Wh per kg incl packaging excl electronics)
+Lithium NMC 811 (215 Wh per kg incl packaging excl electronics)
+Mica (fire proof electric insulation) estimate
+NiCd battery AA-cell
+NiCd battery C-cell
+NiMH battery for laptops (54 Wh per kg)
+solder Tin/Lead 63/37 solder electronic industry
+solder leadfree electronic industry (Ag3.9, Cu0.6)
+solder Lead Tin/Lead  60/40 (normal)
+PV cell (Mono-Si) per m2 in Rotterdam
+IC die (not packaged) Logic N28 per cm2
+IC die (not packaged) Logic N20 per cm2
+IC die (not packaged) Logic N14 per cm2
+IC die (not packaged) Logic N10 per cm2
+IC die (not packaged) Logic N7 per cm2
+IC die (not packaged) Logic N5 per cm2
+IC die (not packaged) Logic N3 per cm2
+IC die (not packaged) Logic N2 per cm2
+PCB = Printed Circuit Board (empty)
+PCB of laptop (including componenets - excluding ICs)
+PCB of mobile phone (including componenets - excluding ICs)
+PCB of refrigerator (including componenets - excluding ICs)
+PCB of washing machine (including componenets - excluding ICs)
+PCB of average laptop (including ICs)
+One day 1.5 GB internet traffic for one user = user.day
+One year 1 GB datastorage in datacentres = GB.year
+Aramid st gr
+Carbon fibre
+Glass fibre
+Diesel B7  - including combustion CO2
+Diesel B10  - including combustion CO2
+Diesel B100 (FAME) - including combustion CO2
+Diesel XTL (HVO) form tallow waste - including combustion CO2
+Gasoline E5 - including combustion CO2
+Gasoline E10 - including combustion CO2
+Gasoline E85 - including combustion CO2
+CNG - including combustion CO2
+LNG - including combustion CO2
+LPG - including combustion CO2
+Brown Hydrogen - including combustion CO2
+ Gasoline E10 - lease segment A (5.14 l/100km) including combustion CO2
+ Gasoline E10 - lease segment B (6.04 l/100km) including combustion CO2
+ Gasoline E10 - lease segment C (7.10 l/100km) including combustion CO2
+ Gasoline E10 - lease segment D (7.20 l/100km) including combustion CO2
+ Gasoline E10 - lease segment E (9.44 l/100km) including combustion CO2
+ Diesel B10 - lease segment B (4.83 l/100km) including combustion CO2
+ Diesel B10 - lease segment C (5.03 l/100km) including combustion CO2
+ Diesel B10 - lease segment D (5.41 l/100km) including combustion CO2
+ Diesel B10 - lease segment E (10.20 l/100km) including combustion CO2
+ BEV - lease segment A (14.86 kWh/100km) WTW CO2
+ BEV - lease segment B (15.78 kWh/100km) WTW CO2
+ BEV - lease segment C (16.98 kWh/100km) WTW CO2
+ BEV - lease segment D (17.98 kWh/100km) WTW CO2
+ BEV - lease segment E (23.83 kWh/100km) WTW CO2
+ Euro 6 max additional emisions CO - NOx - PM - NMVOC
+biodiesel (palm oil methyl ester)
+biodiesel (rape methyl ester)
+biodiesel (soybean ester 50% Brazil - 50% USA)
+biodiesel (soybean ester 100% USA)
+ethanol
+petrol (85% ethanol)
+Diesel B100 (FAME)
+Diesel XTL (HVO) from USA soybean oil in Europe
+Diesel XTL (HVO) from agricultural waste
+Diesel XTL (HVO) from tallow (waste)
+Anthracite coal  at mine (30.7MJ/kg)
+Anthracite coal (30.7 MJ/kg) - including combustion CO2
+Bituminous coal  at mine US (26.4 MJ/kg)
+Bituminous coal (26.4 MJ/kg) US  - including combustion CO2
+Hard coal at mine (open pit mine) Indonesia
+Lignite at open pit mine - excluding combustion
+Lignite at open pit mine (high eff) Poland incl land-use change
+LPG for chemical feedstock
+LPG for transport - excluding combustion
+LPG for transport - including combustion CO2
+CNG (compressed natural gas) for transport - excl. combustion
+CNG (compressed natural gas) for transport  - including combustion CO2
+Natural gas general EU for feedstock - excl. combustion
+Natural gas general EU for heat - incl. combustion) CO2
+Natural gas Revap LNG from US in EU for feedstock - excl. combustion)
+Nat Gas 40 MJ/Nm3 from LNG for heat - incl. combustion CO2
+Nat Gas 40 MJ/Nm3 from Norway - Algeria - UK for heat - incl. combustion CO2
+Nat Gas 35 MJ/Nm3 from Netherlands for heat - incl. combustion CO2
+Crude oil EU General (for feedstock)
+Crude oil US General (for feedstock)
+Diesel low-sulphur - excluding combustion
+Diesel low-sulphur - including combustion CO2
+Diesel low-sulphur - including combustion CO2 - per MJ
+Heavy fuel oil for heat - including combustion CO2
+Heavy fuel oil in transport - including combustion CO2)
+Kerosene - excluding combustion
+Kerosene - including combustion CO2
+Petrol - including combustion CO2
+Petrol - excluding combustion
+Naphtha (for feedstock)
+Fuel grade uranium 3615 GJ/kg (4.52% enriched U-235 )
+Glass for windows and facades (float glass)
+Borosilicate glass (Pyrex)
+Ceramic glass
+Recycled borosilicate glass (Pyrex)
+Recycled silica glass
+Silica glass
+Glass bottles 100% recycled
+Glass bottles recycled average EU 74%
+Glass bottles virgin
+Glass bottles flint (=clean transparant), EoL-RIR in Europe 40%
+Glass bottles brown EoL-RIR in Europe 50%
+Glass bottles green EoL-RIR in Europe 80%
+Glass bottles unspecified colour EoL-RIR in Europe 52%
+Glare 1-3/2-0.3
+Glare 3-3/2-0.2
+Glare 3-6/5-0.4
+Glare 4-6/5-0.4
+Hylite (1 m2  1.2 mm thickness  1.8 ton/m3)
+Steel market mix USA 69.2% EAF for beams & sheet
+Steel virgin + 15% scrap BOF for beams & sheet
+Steel from 100% scrap EAF for beams & sheet
+Steel market mix Europe 49.8% EAF for beams & sheet
+Steel market mix China 9% EAF for beams & sheet
+Steel welded pipes 8.5% scrap BOF
+Steel seamless pipes 33% scrap BOF
+GG15
+GG35
+GGG-NiCr
+GGG-NiSiCr
+GGG40
+GGG60
+GGG70
+GGL-NiCuCr
+Stainless Steel (secondary), average
+GX12Cr14 (CA15) 23% inox scrap (China)
+GX12Cr14 (CA15) 44% inox scrap (World)
+GX12Cr14 (CA15) 70% inox scrap (EU, USA)
+GX5CrNi19 10 (CF8) 23% inox scrap (China)
+GX5CrNi19 10 (CF8) 44% inox scrap (World)
+GX5CrNi19 10 (CF8) 70% inox scrap (EU, USA)
+X10Cr13 (mart 410) 23% inox scrap (China)
+X10Cr13 (mart 410) 44% inox scrap (World)
+X10Cr13 (mart 410) 70% inox scrap (EU, USA)
+X10CrNiMoNb 23% inox scrap (China)
+X10CrNiMoNb 44% inox scrap (World)
+X10CrNiMoNb 70% inox scrap (EU, USA)
+X10CrNiS (303) 23% inox scrap (China)
+X10CrNiS (303) 44% inox scrap (World)
+X10CrNiS (303) 70% inox scrap (EU, USA)
+X12Cr13 (416) 23% inox scrap (China)
+X12Cr13 (416) 44% inox scrap (World)
+X12Cr13 (416) 70% inox scrap (EU, USA)
+X12CrNi17 7 (301) 23% inox scrap (China)
+X12CrNi17 7 (301) 44% inox scrap (World)
+X12CrNi17 7 (301) 70% inox scrap (EU, USA)
+X20Cr13 (420) 23% inox scrap (China)
+X20Cr13 (420) 44% inox scrap (World)
+X20Cr13 (420) 70% inox scrap (EU, USA)
+X22CrNi17 (431) 23% inox scrap (China)
+X22CrNi17 (431) 44% inox scrap (World)
+X22CrNi17 (431) 70% inox scrap (EU, USA)
+X2CrNiMo1712 (316L) 23% imox scrap (China)
+X2CrNiMo1712 (316L) 44% imox scrap (World)
+X2CrNiMo1712 (316L) 70% imox scrap (EU, USA)
+X30Cr13 (~420) 23% inox scrap (China)
+X30Cr13 (~420) 44% inox scrap (World)
+X30Cr13 (~420) 70% inox scrap (EU, USA)
+X35CrMo17 23% inox scrap (China)
+X35CrMo17 44% inox scrap (World)
+X35CrMo17 70% inox scrap (EU, USA)
+X5CrNi18 (304) 23% inox scrap (China)
+X5CrNi18 (304) 44% inox scrap (World)
+X5CrNi18 (304) 70% inox scrap (EU, USA)
+X5CrNiMo18 (316) 23% inox scrap (China)
+X5CrNiMo18 (316) 44% inox scrap (World)
+X5CrNiMo18 (316) 70% inox scrap (EU, USA)
+X6Cr17 (430) 23% inox scrap (China)
+X6Cr17 (430) 44% inox scrap (World)
+X6Cr17 (430) 70% inox scrap (EU, USA)
+X6CrNi18 (~304) 23% inox scrap (China)
+X6CrNi18 (~304) 44% inox scrap (World)
+X6CrNi18 (~304) 70% inox scrap (EU, USA)
+X7CrAl13 (405) 23% inox scrap (China)
+X7CrAl13 (405) 44% inox scrap (World)
+X7CrAl13 (405) 70% inox scrap (EU, USA)
+X90CrCoMoV17 23% inox scrap (China)
+X90CrCoMoV17 44% inox scrap (World)
+X90CrCoMoV17 70% inox scrap (EU, USA)
+X90CrMoV18 (440B) 23% inox scrap (China)
+X90CrMoV18 (440B) 44% inox scrap (World)
+X90CrMoV18 (440B) 70% inox scrap (EU, USA)
+10SPb20 (1.0721)
+35S20 (1.0726)
+9S20
+9SMnPb (1.0718)
+GS-10Ni6
+GS-22Mo4
+GS-25CrMo4
+GS-45.3
+GS-70
+GS-X40CrNiSi 25 12
+HA
+HT
+Fe360
+Fe470
+Fe520
+St13
+A517a
+A517b
+S355J2G1W
+St14
+14NiCr14
+15Cr3
+18NiCr8
+25CrMo4
+30CrNiMo8
+34Cr4
+34CrAl6
+35NiCr18
+36NiCr6
+37MnSi5
+42CrMo4
+50 CrV4
+C15
+C35
+C45
+C55
+C60
+13CrMo4 5 (1.7335)
+21MoV53
+22Mo4
+28NiCrMo4
+15NiMn6 (1.6228)
+A514(A)
+ASt35 (1.0346)
+X12CrNi 18 9
+X12Ni5 (1.5680)
+X8Ni9
+38Si6
+50CrV4
+55Si7
+67SiCr5
+Aluminium (primary) Global average
+Aluminium trade mix Global (64% prim 36% sec)
+Aluminium (primary) European production, bauxite from Africa
+Aluminium (secondary)
+Aluminium trade mix Europe (79% prim 21% sec)
+Antimony - CRM (EoL-RIR = 18%)
+Cadmium (EoL-RIR = 0%)
+Chromium, CRM (EoL-RIR = 21%)
+Cobalt - CRM (EoL-RIR = 22%)
+Copper rod tube plate (primary)
+Copper (secondary)
+Copper wire - plate - tube - trade mix ( 68% prim 32% sec)
+Gallium, CRM (EoL-RIR = 0%)
+Gold (primary)
+Gold (secondary)
+Gold trade mix (76% prim 24% sec)
+Indium - CRM (EoL-RIR= 0%)
+Lead (primary)
+Lead (secondary)
+Lead trade mix ( 20% prim 80% sec)
+Lithium (EoL-RIR = 0%)
+Magnesium - CRM (primary)
+Magnesium - CRM (secondary)
+Magnesium - CRM trade mix (93% prim 7% sec)
+Manganese (EoL_RIR= 9%)
+Mercury (virgin)
+Molybdenum (EoL-RIR = 9%)
+Nickel (primary)
+Nickel (secondary)
+Nickel trade mix (84% prim 16% sec)
+Palladium - CRM (primary)
+Palladium - CRM (secondary)
+Palladium - CRM trade mix (67% prim 33% sec)
+Platinum - CRM (primary)
+Platinum - CRM (secondary)
+Platinum - CRM trade mix (75% prim 25% sec)
+Rhodium - CRM (primary)
+Rhodium - CRM (secondary)
+Rhodium - CRM trade mix (64% prim 36% sec)
+Silicon (metallurgical) for steel
+Silver (primary)
+Silver (secondary)
+Silver trade mix (81% prim 19% sec)
+Tantalum (EoL-RIR = 13%)
+Tellurium (EoL-RIR = 1%)
+Tin (virgin)
+Titanium (primary)
+Titanium (secondary)
+Titanium trade mix (99% prim, 1% sec)
+Tungsten - CRM (EoL-RIR=42%)
+Vanadium (primary)
+Vanadium trade mix (99% prim 1% sec)
+Zinc (primary)
+Zinc (secondary)
+Zinc trade mix (86% prim 14% sec)
+Tungsten (primary)
+Tungsten (secondary)
+Arsenic (as co-product of Copper)
+Barium
+Berylium
+Bismuth (as co-product of Lead)
+Boron
+Hafnium
+Niobium
+Rhenium
+Strontium
+Thallium
+Thorium
+Cerium
+Dysprosium
+Erbium
+Eutropium
+Gadolinium
+Lanthanum
+Mischmetal: Cerium 67%, lanthanum 20%, Neodimium 11%, rest 2%
+Neodymium
+Praseodymium
+Samarium
+Scandium
+Terbium
+Ytterbium
+Yttrium
+Al99
+AlCuMg1 (2017)
+AlCuMg2 (2024)
+AlCuMgPb (2011)
+AlCuSiMg (2036)
+AlMg1 (5005)
+AlMg3 (5754a)
+AlMg4.5Mn (5182)
+AlMgSi0.5 (6060 and 6063)
+AlMgSi0.7 (6005)
+AlMn1 (3003)
+AlMn1.2Mg1 (3004)
+AlSiMgMn (6009)
+AlZnCuMg (7075)
+G-AlCu4TiMg (204)
+G-AlMg3 (242)
+G-AlMg5 (314)
+G-AlSi12 (230)
+G-AlSi12Cu (231)
+G-AlSi7Mg (Thixo)
+G-AlSi8Cu3 (380)
+Copper wire rod
+Copper tube
+Copper flat rolled product
+Cu-E
+CuAg-E
+CuAl5
+CuNi10Fe
+CuNi18Zn
+CuNi44Mn
+CuSn6.7P
+CuSn8
+CuZn15
+CuZn30
+CuZn37 (Brass)
+CuZn40 (Muntz metal)
+CuZn40Pb (Brass alloy, alpha-beta, machinable)
+G-CuAl10Fe
+G-CuAl10Ni
+G-CuNi10
+G-CuSn10
+G-CuSn12
+G-CuSn5Zn5Pb5
+G-CuZn15
+G-CuZn37Pb
+G-CuZn40
+AM100A
+AM503
+G-MgAl6Zn3
+G-MgAl8Zn1
+G-MgAl9Zn2
+GD-MgAl9Zn1
+MgAl3Zn
+MgZn6Zr
+MgMn1.5
+MgAl6Zn
+Duranickel
+Invar
+Mumetal
+Ni 99.6
+Ni span C902
+NiCr 80 20
+NiCr20Co18Ti
+NiCr20TiAl
+NiCu30Al
+NiCu30Fe
+NiFe 50 50
+NiMo30
+Supermalloy
+TiAl5Sn2
+TiAl6V4
+TiV15SnCrAl3
+G-ZnAlCu
+Zamak3
+Zamak5
+ZnCuTi
+Zinc (super plastic)
+Barium Ferrite magnet, ceramic 4 MGOe
+Neodymium magnet (NdFeB) 50 MGOe
+Neodymium magnet (NdFeB) 50 MGOe recycled
+Neodymium magnet (NdFeB) corrosion resistant, 40 MGOe
+Neodymium magnet (NdFeB) corrosion resistant, 40 MGOe recycled
+SmCo (1:5) magnet, 20 MGOe
+Nitride magnet (Fe16N2), 20-80 MGOe
+Board (solid) and recycled paper (test liner and fluting) in Europe
+Brown paper (kraft liner)
+Brown paper (kraft liner) 70 gr/m2
+Brown paper (kraft liner) - FSC or wood waste based
+Moulded fibre products
+Paper woodfree uncoated bleached
+Paper woodfree uncoated bleached 80 gr/m2
+Paper woodfree uncoated bleached -  FSC or waste wood based
+Semichemical fluting
+Semichemical fluting - FCS or wood waste based
+Folding Boxboard GC1
+Folding Boxboard GC2 or GC3
+Paper and board for (fat) food packaging
+Bamboo paper in Shenzhen produced in Sichuan proxi
+film HDPE 50 mu
+film LDPE 50 mu
+film PC 50 mu
+film PET / PE+EVOH+PE 62 mu for MAP
+film PET 50 mu
+film PET+ALOx / LDPE 62 mu for MAP
+film PET+PVOH / LDPE 62 mu for MAP
+film PLA (biobased) 50 mu
+film PP 50 mu
+film PP+PVDC 62 mu for MAP
+film PS (shrink) 50 mu
+film PVC (stiff shrink) 50 mu
+Printing of multilayer film - UV Inkjet
+MAP Carbon Dioxide gas at 1 bar 0 degr C
+MAP Nitrogen gas at 1 bar 0 degr C
+MAP Oxygen gas at 1 bar 0 degr C
+Mycelium composite protective packaging - Grown Bio 121 kg/m3
+Paperfoam
+Stonepaper from Taiwan in Rotterdam
+Stonepaper from Germany in Rotterdam
+bio-PE (Polyethylene) - not biodegradable - from ethanol (Brazil Braskem)
+CA (Cellulose polymers) - biodegradable
+PA-11 (Nylon-11) - bio-based not biodegradable
+bio-PET (Polyethylene terephthalate) from sugarcane - not biodegradable
+PHA and PHB (Polyhydroxyalkanoates) from wastewater sludge - biodegradable)
+PLA (Polylactide) of corn stover - biodegradable
+PBS-Starch 50%-50% blend - biodegradable
+PBS (Polybutylene succinate) - biodegradable
+PBAT (polybutylene adipate-co-terephthalate) -  biodegradable
+bio-PE (Polyethylene) from tallow (waste) HVO - not biodegradable
+bio-PP (Polypropylene) from tallow (waste) HVO - not biodegradable,
+PEF (Polyethylene furan-2,5-dicarboxylate) from sugarcane - not biodegradable
+Mechanical recycled pellets (rPET/rPE/rPP/rPVC) - downcycled
+Moulded Recycled mixed polymer - downcycled
+ABS (Acrylonitrile butadiene styrene) chemical upcycled
+CA (Cellelose Acetate tetra) chemical upcycled
+EVA (Ethylene vinyl acetate) chemical upcycled
+Flexible Polymeer Foam (PE) chemical upcycled
+Ionomer chemical upcycled
+PA-11 (Nylon-11) chemical upcycled - not biodegradable
+PA (Nylons) chemical upcycled
+PC (Polycarbonate) chemical upclycled
+bio-PE (Polyethylene) chemical upcycled - non biodegradable
+PE (HDPE  High density Polyethylene) chemical upcycled
+PET (Polyethylene terephthalate) chemical upcycled
+PHA and PHB (Polyhydroxyalkanoates) chemical upcycled - biodegradeble
+PLA (Polylactide, starch based) chemical upcycled - biodegradeble
+PMMA (Polymethyl methacrylate) chemical upcycled
+POM (Polyoxymethylene) chemical upcycled
+PP (Polypropylene) chemical upcycled
+PS (Polystyrene) chemical upcycled
+PTFE (Teflon) chemical upcycled
+PTT (Polyltrimethylene terephthalate) chemical upcycled
+PUR (Polyurethane) chemical upcycled
+PVC (Polyvinylchloride) chemical upcycled
+Starch-PBS 50%-50% blend chemical upcycled - biodegradeble
+PBS  chemical upcycled - biodegradeble
+PBAT (polybutylene adipate-co-terephthalate) chemical upcycled - biodegradeble
+PAN (Polyacrylonitrile fibres) chemical upcycled
+bio-PP (Polypropylene) chemical upcycled - not biodegradable
+bio-PET (Polyethylene terephthalate) chemical upcycled - not biodegradable
+PEF (Polyethylene furan-2,5-dicarboxylate) chemical upcycled - not biodegradeble
+BR (butadiene rubber)
+BR and IIR (butadiene rubber and butyl rubber) in tires
+EPDM (ethylene propylene diene monomer rubber)
+EVA (ethylene vinyl acetate rubber)
+IR (polyisoprene rubber)
+Natural rubber (from Thailand in Rotterdam)
+NBR (nitrile rubber)
+Polychloroprene (Neoprene and CR) rubber
+PU (polyurethane) rubber for shoe soles
+SAN (Styrene-acrylonitrile copolymer)
+SBR (Styrene butadiene rubber)
+Silicone rubber (PDMS)
+ABS (Acrylonitrile butadiene styrene)
+ABS 30% glass fibre
+Ionomer
+PA 6 (Nylon 6  Polyamide 6)
+PA 6 30% glass fibre
+PA 66 (Nylon 66  Polyamide 6-6)
+PA 66 30% glass fibre
+PB-1 (Polybutylene)
+PC (Polycarbonate)
+PC 30% glass fibre
+PE (HDPE  High density Polyethylene)
+PE (LDPE  Low density Polyethylene)
+PE (LLDPE  Linear low density Polyethylene)
+PE (Polyethylene) expanded
+PET (Polyethylene terephthalate) 30% glass fibre
+PET (Polyethylene terephthalate) amorphous
+PET (Polyethylene terephthalate) bottle grade
+PMMA (Polymethyl methacrylate)
+POM (Polyoxymethyleen, polyacetaal)
+PP (Polypropylene)
+PP GF30
+PS (EPS  expandable polystyrene, white)
+PS (GPPS  general purpose polystyrene)
+PS (HIPS  high impact polysyrene)
+PTFE (Polytetrafluoroethylene) Teflon
+PTT (Polyltrimethylene terephthalate)
+PVOH (Polyvinyl alcohol) and PVA (Polyvinyl acetate - wood gluel)
+PVC (Polyvinylchloride emulsion polymerised)
+PVC (Polyvinylchloride suspension polymerised)
+PVC (Polyvinylchloride, trade mix)
+PVDC (Polyvinyliden chloride)
+PAN Polyacrylonitrile fibres
+Carbon fiber-reinforced plastic
+Epoxy resin from Bisphenol A 33% Epichlorohydrin 66%
+MF (melamine formaldehyde resin)
+PF (phenol formaldehyde resin)
+Phenolics (Bakelite)
+Polyester (unsaturated resin)
+PUR flex. block foam TDI
+PUR flex. moulded  TDI with flame retardant
+PUR flex. moulded TDI
+PUR flex. moulded. MDI
+PUR rigid foam MDI
+Sheet molding compound 25% glass fibre
+Sheet molding compound 50% glass fibre
+UF (urea-formaldehyde resin)
+Bisphenol A
+DEHP (diisooctyl phthalate)
+DINP (diisononyl phthalate)
+Epichlorohydrin
+EVOH (Ethylene vinyl alcohol) film barrier of gasses
+Formaldehyde
+MDI (Methylene diphenyl diisocyanate)
+MMA (Methyl methacrylate)
+Nafion
+PEEK (Polyetheretherketone)
+PEI (PolyEther Imide)
+Phthalic anhydride
+Polyether-polyols
+PPS (polyphenylene sulfide)
+PVB (Polyvinyl butyral)
+TDI (toluene diisocyanate)
+PE for bottles with deposit in EU (RR=80%  RIR=25%)
+PET for bottles with deposit in EU (RR=80%  RIR=25%)
+PP for bottles with deposit in EU (RR=80%  RIR=25%)
+PVC for bottles with deposit in EU (RR=80%  RIR=25%)
+Acrylic fibres
+BioCotton fibre from China/India (without global seatransport)
+BioCotton fibre from USA (without global seatransport)
+Cotton fibre from China and India (without global seatransport)
+Cotton fibre from USA (without global seatransport)
+Cotton fibre trade mix (without global seatransport)
+Elastane (polyurethane) pellets
+Fleece from recycled PET bottles
+Jute fibre incl. degumming market mix
+Jute fibre incl. degumming India irrigation
+Jute fibre incl. degumming India rain fed - renewable fuel
+Kenaf fibre incl. degumming India
+Kenaf fibre incl. degumming Italy - renewable fule
+Nylon pellets
+Polyester = PET pellets
+PLA (polylactide) pellets
+Sorona (PTT) biobased pellets
+Viscose production
+Wool from Australia - transported to Rotterdam
+PP (Polypropylene) pellets
+Flax fibres for spinning linen
+dyeing with pollution in India - without materials input
+dyeing in Europe - without materials input
+heat setting and washing synthetic fabrics
+knitting  83 dtex
+knitting 200 dtex
+knitting 300 dtex
+pretreatment of cotton
+spinning cotton  45 dtex
+spinning cotton  70 dtex
+spinning cotton 100 dtex
+spinning cotton 150 dtex
+spinning cotton 200 dtex
+spinning cotton 300 dtex
+spinning cotton 400 dtex
+spinning cotton 500 dtex
+spinning extruder polymer filaments  (80 - 500 dtex)
+spinning viscose fibres (80-500 dtex)
+texturing polymer fibres (to improve insulation properties)
+weaving  15 dtex
+weaving  30 dtex
+weaving  45 dtex
+weaving  70 dtex
+weaving 100 dtex
+weaving 150 dtex
+weaving 200 dtex
+weaving 300 dtex
+weaving 400 dtex
+weaving 500 dtex
+Geotextiles (PP  500 dTex  woven)
+Duck Down in Rotterdam from China
+Duck Down in Rotterdam from Poland
+Polyester fiberfill
+drinking water without water stress
+industrial reverse osmosis water
+cooling water - excluding pumping energy
+low water stress (BWS < 10%) drinking water and cooling tower water
+low medium water stress (BWS 10%-20%) drinking water and cooling tower water
+medium high water stress (BWS 20%-40%) drinking water and cooling tower water
+high water stress (BWS 40%-80%) drinking water and cooling tower water
+extremely high water stress (BWS > 80%) drinking water and cooling tower water
+Afrormosia FSC/PEFC 700 (kg/m3)
+Afrormosia natural forest clear cut 700 (kg/m3)
+Afzelia FCS/PEFC 820 (kg/m3)
+Afzelia natural forest clear cut 820 (kg/m3)
+Guaiacum wood FSC/PEFC 1250 (kg/m3)
+Guaiacum wood natural forest clear cut 1250 (kg/m3)
+Iroko FSC/PEFC 650 (kg/m3)
+Iroko natural forest clear cut 650 (kg/m3)
+Makore FSC/PEFC 660 (kg/m3)
+Makore natural forest clear cut 660 (kg/m3)
+Mansonia FSC/PEFC 620 (kg/m3)
+Mansonia natural forest clear cut 620 (kg/m3)
+Moabi FSC/PEFC 815 (kg/m3)
+Moabi natural forest clear cut 815 (kg/m3)
+Padouk African FSC/PEFC 740 (kg/m3)
+Padouk African natural forest clear cut 740 (kg/m3)
+Palissander Indisch FSC/PEFC 850 (kg/m3)
+Palissander Indisch natural forest clear cut 850 (kg/m3)
+Robinia FSC/PEFC 740 (kg/m3)
+Teak FSC/PEFC 665 (kg/m3)
+Teak natural forest clear cut 665 (kg/m3)
+Agba FSC/PEFC 500 (kg/m3)
+Agba natural forest clear cut 500 (kg/m3)
+Angelique FSC 735 (kg/m3)
+Angelique natural forest clear cut 735 (kg/m3)
+Azobé FSC/PEFC 1060 (kg/m3)
+Azobé natural forest clear cut 1060 (kg/m3)
+Bosse clair FSC/PEFC 575 (kg/m3)
+Bosse clair natural forest clear cut 575 (kg/m3)
+Bubinga FSC/PEFC 830 (kg/m3)
+Bubinga natural forest clear cut 830 (kg/m3)
+Cedar  American FSC/PEFC 490 (kg/m3)
+Cedar  American natural forest clear cut 490 (kg/m3)
+Chestnut FSC/PEFC 540 (kg/m3)
+Cordia FCS/PEFC 540 (kg/m3)
+Cordia natural forest clear cut 540 (kg/m3)
+Idigbo FSC/PEFC 550 (kg/m3)
+Idigbo natural forest clear cut 550 (kg/m3)
+Mahogany FSC/PEFC 1110 (kg/m3)
+Mahogany natural forest clear cut 1110 (kg/m3)
+Meranti FSC/PEFC 640 (kg/m3)
+Meranti natural forest clear cut 640 (kg/m3)
+Merbau FSC/PEFC 800 (kg/m3)
+Merbau natural forest clear cut 800 (kg/m3)
+Oak European FSC/PEFC 710 (kg/m3)
+Purpleheart FSC/PEFC 850 (kg/m3)
+Purpleheart natural forest clear cut 850 (kg/m3)
+Red Cedar Western 370 (kg/m3)
+Utile (Sipo) FSC/PEFC 640 (kg/m3)
+Utile (Sipo) natural forest clear cut 640 (kg/m3)
+Wengé FSC/PEFC 830 (kg/m3)
+Wengé natural forest clear cut 830 (kg/m3)
+Carapa FSC/PEFC 610 (kg/m3)
+Carapa natural forest clear cut 610 (kg/m3)
+Dibetou FSC/PEFC550 (kg/m3)
+Dibetou natural forest clear cut 550 (kg/m3)
+Kauri FSC/PEFC 485 (kg/m3)
+Kauri natural forest clear cut 485 (kg/m3)
+Kotibe FSC/PEFCt 760 (kg/m3)
+Kotibe natural forest clear cut 760 (kg/m3)
+Larch FSC/PEFC 600 (kg/m3)
+Mahogany African FSC/PEFC 640 (kg/m3)
+Mahogany African natural forest clear cut 640 (kg/m3)
+Movigui FSC/PEFC 710 (kg/m3)
+Movigui natural forest clear cut 710 (kg/m3)
+Mutenye FSC/PEFCt 820 (kg/m3)
+Mutenye natural forest clear cut 820 (kg/m3)
+Niangon FSC/PEFC 710 (kg/m3)
+Niangon natural forest clear cut 710 (kg/m3)
+Olon FSC/PEFC 485 (kg/m3)
+Olon natural forest clear cut 485 (kg/m3)
+Oregon Pine FSC/PEFC 505 (kg/m3)
+Oregon Pine natural forest clear cut 505 (kg/m3)
+Tchitola natural forest clear cut 630 (kg/m3)
+Peroba FSC/PEFC 750 (kg/m3)
+Peroba natural forest clear cut 750 (kg/m3)
+Pitch Pine FSC/PEFC 750 (kg/m3)
+Pitch Pine natural forest clear cut 750 (kg/m3)
+Sapelli FSC/PEFC 650 (kg/m3)
+Sapelli natural forest clear cut 650 (kg/m3)
+Scots pine FSC/PEFC 520 (kg/m3)
+Tchitola FSC/PEFC 630 (kg/m3)
+Tiama FSC/PEFC 560 (kg/m3)
+Tiama natural forest clear cut 560 (kg/m3)
+Walnut FSC/PEFC 670 (kg/m3)
+Yang FSC/PEFC 750 (kg/m3)
+Yang natural forest clear cut 750 (kg/m3)
+Aningre FSC/PEFC 580 (kg/m3)
+Aningre natural forest clear cut 580 (kg/m3)
+Avodire FSC/PEFC 550 (kg/m3)
+Avodire natural forest clear cut 550 (kg/m3)
+Balsa FSC/PEFC 150 (kg/m3)
+Balsa natural forest clear cut 150 (kg/m3)
+Birch FSC/PEFC 660 (kg/m3)
+Elm FSC/PEFC 650 (kg/m3)
+Emeri FSC/PEFC 515 (kg/m3)
+Emeri natural forest clear cut 515 (kg/m3)
+Hemlock FSC/PEFCt 490 (kg/m3)
+Hickory FSC/PEFCt 800 (kg/m3)
+Limba FSC/PEFC 560 (kg/m3)
+Limba natural forest clear cut 560 (kg/m3)
+Menkulang FSC/PEFC 710 (kg/m3)
+Menkulang natural forest clear cut 710 (kg/m3)
+Mersawa FSC/PEFC 640 (kg/m3)
+Mersawa natural forest clear cut 640 (kg/m3)
+Okoume FSC/PEFC forest 440 (kg/m3)
+Okoume natural forest clear cut 440 (kg/m3)
+Parana Pine FSC/PEFC 540 (kg/m3)
+Parana Pine natural forest clear cut 540 (kg/m3)
+Radiata Pine FSC/PEFC 450 (kg/m3)
+Red oak FSC/PEFC 700 (kg/m3)
+Silver fir FSC/PEFC 450 (kg/m3)
+Spruce European FSC/PEFC 460 (kg/m3)
+Yellow pine FSC/PEFC 540 (kg/m3)
+Abura FSC/PEFC 560 (kg/m3)
+Abura natural forest clear cut 560 (kg/m3)
+Ahorn FSC/PEFC 640 (kg/m3)
+Alder FSC/PEFC 530 (kg/m3)
+Antiaris FSC/PEFC 445 (kg/m3)
+Antiaris natural forest clear cut 445 (kg/m3)
+Ash FSC/PEFC 700 (kg/m3)
+Aspen FSC/PEFC 440 (kg/m3)
+Baboen FSC/PEFC 410 (kg/m3)
+Baboen natural forest clear cut 410 (kg/m3)
+Beech European FSC/PEFC 710 (kg/m3)
+Black poplar FSC/PEFC 440 (kg/m3)
+Blue gum FSC/PEFC 900 (kg/m3)
+Blue gum natural forest clear cut 900 (kg/m3)
+Canaria FSC/PEFC 830 (kg/m3)
+Canaria natural forest clear cut 830 (kg/m3)
+Cottonwood FSC/PEFC 440 (kg/m3)
+Cottonwood natural forest clear cut 440 (kg/m3)
+Hornbean FSC/PEFC 750 (kg/m3)
+Horse chestnut FSC/PEFC 450 (kg/m3)
+Ilomba FSC/PEFC 480 (kg/m3)
+Ilomba natural forest clear cut 480 (kg/m3)
+Koto FSC/PEFC 560 (kg/m3)
+Koto natural forest clear cut 560 (kg/m3)
+Linde FSC/PEFC 540 (kg/m3)
+Platan FSC/PEFC 620 (kg/m3)
+Poplar FSC/PEFC 440 (kg/m3)
+Sycamore FSC/PEFC 615 (kg/m3)
+Wawa FSC/PEFC 390 (kg/m3)
+Wawa natural forest clear cut 390 (kg/m3)
+Willow FSC/PEFC 450 (kg/m3)
+Anzala (Mukulungu) FSC/PEFC 940 (kg/m3)
+Anzala (Mukulungu) natural forest clear cut 940 (kg/m3)
+Coromandel Ebony FSC/PEFC 1100 (kg/m3)
+Coromandel Ebony natural forest clear cut 1100 (kg/m3)
+Dabema FSC/PEFC 690 (kg/m3)
+Dabema natural forest clear cut 690 (kg/m3)
+Emien FSC/PEFC 360 (kg/m3)
+Emien natural forest clear cut 360 (kg/m3)
+Incense cedar FSC/PEFC 385 (kg/m3)
+Missanda (Tali) FSC/PEFC 900 (kg/m3)
+Missanda (Tali) natural forest clear cut 900 (kg/m3)
+Mountain ash European FEC/PEFC 700 (kg/m3)
+Mubura FSC/PEFC 830 (kg/m3)
+Mubura natural forest clear cut 830 (kg/m3)
+Niove FSC/PEFC 850 (kg/m3)
+Niove natural forest clear cut 850 (kg/m3)
+Onzabili FSC/PEFCt 550 (kg/m3)
+Onzabili natural forest clear cut 550 (kg/m3)
+Ozigo (Igaganga) FSC/PEFC 650 (kg/m3)
+Ozigo (Igaganga) natural forest clear cut 650 (kg/m3)
+Parasolier FSC/PEFC 190 (kg/m3)
+Parasolier natural forest clear cut 190 (kg/m3)
+Pear FSC/PEFC 680 (kg/m3)
+Pockwood FSC/PEFC1250 (kg/m3)
+Pockwood natural forest clear cut 1250 (kg/m3)
+Simmon (Persimmon) FSC/PEFC 835 (kg/m3)
+Sterculia (Niangon) FSC/PEFC 700 (kg/m3)
+Sterculia (Niangon) natural forest clear cut 700 (kg/m3)
+Zebrano (Goncalo-alvez) FSC/PEFC 900 (kg/m3)
+Zebrano (Goncalo-alvez) natural forest clear cut 900 (kg/m3)
+Angelim Vermelho FSC/PEFC 1430 (kg/m3) wet
+Angelim Vermelho natural forest clear cut 1430 (kg/m3) wet
+Cumaru FSC/PEFC 1200 (kg/m3) wet
+Cumaru natural forest clear cut 1200 (kg/m3) wet
+Massaranduba FCS/PEFC 1200 (kg/m3) wet
+Massaranduba natural forest clear cut 1200 (kg/m3) wet
+Okan FSC/PEFC 1075 (kg/m3) wet
+Okan natural forest clear cut 1075 (kg/m3) wet
+Sapupira FSC/PEFC 1075 (kg/m3) wet
+Sapupira natural forest clear cut 1075 (kg/m3) wet
+Acetylated Radiata pine = durable wood, s.g. 515 kg/m3 (Netherlands)
+Acetylated Scots pine = durable wood, s.g. 540 kg/m3 (Netherlands)
+Bamboo (local at forest road China)
+CCA wood (Scots pine with Cromium Copper and Asenic) incl EoL
+Cork at factory gate in Portugal 150 kg/m3
+Cork at forest road 150 kg/m3
+Cork granulate 150 kg/m3
+Cork granulate glued = aggregate (e.g. slab for insulation) 150 kg/m3
+MDF at factury gate
+Particle board  standard (Rotterdam)
+Particle board biodegradable at factury gate
+Particle board high humidity P5 (Rotterdam)
+Plato wood = thermal treated European Spruce s.g. 420 kg/m3
+Plywood Bamboo (density approx 700 kg/m3)
+Plywood (softwood 600 kg/m3) - indoor use
+Plywood Okoumei plantation (500 kg/m3) - outdoor use
+Electricity coal EU - US - China 38% efficiency
+Electricity from offshore windmill (5MW  capacity factor 0.47)
+Electricity gas EU - US - China 60% efficiency
+Electricity nuclear (US)
+Electricity oil EU - US - China  45% efficiency
+Electricity from Hydropower (Norway)
+Electricity from PV panel  Mono-Si (irradiation 1100 kWh per m2 ) in MJ
+Electricity from sawdust (waste wood 12% MC) in power plant
+Electricity General Industry
+Electricity General domestic use Low Voltage
+Electricity .EU-27 production
+Electricity Austria production
+Electricity Belgium production
+Electricity Bulgaria production
+Electricity Croatia production
+Electricity Cyprus production
+Electricity Czechia production
+Electricity Denmark production
+Electricity Estonia production
+Electricity Finland production
+Electricity France production
+Electricity Germany production
+Electricity Greece production
+Electricity Hungary production
+Electricity Ireland production
+Electricity Italy production
+Electricity Latvia production
+Electricity Lithuania production
+Electricity Luxembourg production
+Electricity Malta production
+Electricity Netherlands production
+Electricity Norway production
+Electricity Poland production
+Electricity Portugal production
+Electricity Romania production
+Electricity Slovakia production
+Electricity Slovenia production
+Electricity Spain production
+Electricity Sweden production
+Electricity United Kingdom production
+Electricity Switzerland production
+Electricity .EU-27 consumption
+Electricity Austria consumption
+Electricity Belgium consumption
+Electricity Bulgaria consumption
+Electricity Croatia consumption
+Electricity Cyprus consumption
+Electricity Czechia consumption
+Electricity Denmark consumption
+Electricity Estonia consumption
+Electricity Finland consumption
+Electricity France consumption
+Electricity Germany consumption
+Electricity Greece consumption
+Electricity Hungary consumption
+Electricity Ireland consumption
+Electricity Italy consumption
+Electricity Latvia consumption
+Electricity Lithuania consumption
+Electricity Luxembourg consumption
+Electricity Malta consumption
+Electricity Netherlands consumption
+Electricity Poland consumption
+Electricity Portugal consumption
+Electricity Romania consumption
+Electricity Slovakia consumption
+Electricity Slovenia consumption
+Electricity Spain consumption
+Electricity Sweden consumption
+Electricity Switzerland consumption
+Electricity .Middle Africa production
+Electricity .Middle East production
+Electricity .North America production
+Electricity .South America production
+Electricity Afghanistan production
+Electricity Africa production
+Electricity Albania production
+Electricity Algeria production
+Electricity American Samoa production
+Electricity Angola production
+Electricity Antigua and Barbuda production
+Electricity Argentina production
+Electricity Armenia production
+Electricity Aruba production
+Electricity Asia Pacific production
+Electricity Australia production
+Electricity Azerbaijan production
+Electricity Bahamas production
+Electricity Bahrain production
+Electricity Bangladesh production
+Electricity Barbados production
+Electricity Belarus production
+Electricity Belize production
+Electricity Benin production
+Electricity Bermuda production
+Electricity Bhutan production
+Electricity Bolivia production
+Electricity Bosnia and Herzegovina production
+Electricity Botswana production
+Electricity Brazil production
+Electricity Brunei production
+Electricity Burkina Faso production
+Electricity Burundi production
+Electricity Cambodia production
+Electricity Cameroon production
+Electricity Canada production
+Electricity Cape Verde production
+Electricity Cayman Islands production
+Electricity Central African Republic production
+Electricity Central America production
+Electricity Chad production
+Electricity Chile production
+Electricity China production
+Electricity CIS production
+Electricity Colombia production
+Electricity Comoros production
+Electricity Congo production
+Electricity Cook Islands production
+Electricity Costa Rica production
+Electricity Cote d'Ivoire production
+Electricity Cuba production
+Electricity Democratic Republic of Congo production
+Electricity Djibouti production
+Electricity Dominica production
+Electricity Dominican Republic production
+Electricity Eastern Africa production
+Electricity Ecuador production
+Electricity Egypt production
+Electricity El Salvador production
+Electricity Equatorial Guinea production
+Electricity Eritrea production
+Electricity Eswatini production
+Electricity Ethiopia production
+Electricity Falkland Islands production
+Electricity Faroe Islands production
+Electricity Fiji production
+Electricity French Guiana production
+Electricity French Polynesia production
+Electricity Gabon production
+Electricity Gambia production
+Electricity Georgia production
+Electricity Ghana production
+Electricity Greenland production
+Electricity Grenada production
+Electricity Guam production
+Electricity Guatemala production
+Electricity Guinea production
+Electricity Guinea-Bissau production
+Electricity Guyana production
+Electricity Haiti production
+Electricity Honduras production
+Electricity Hong Kong production
+Electricity Iceland production
+Electricity India  production
+Electricity Indonesia production
+Electricity Iran production
+Electricity Iraq production
+Electricity Israel production
+Electricity Jamaica production
+Electricity Japan production
+Electricity Jordan production
+Electricity Kazakhstan production
+Electricity Kenya production
+Electricity Kiribati production
+Electricity Kosovo production
+Electricity Kuwait production
+Electricity Kyrgyzstan production
+Electricity Laos production
+Electricity Lebanon production
+Electricity Lesotho production
+Electricity Liberia production
+Electricity Libya production
+Electricity Macau production
+Electricity Madagascar production
+Electricity Malawi production
+Electricity Malaysia production
+Electricity Maldives production
+Electricity Mali production
+Electricity Mauritania production
+Electricity Mauritius production
+Electricity Mexico production
+Electricity Moldova production
+Electricity Mongolia production
+Electricity Montenegro production
+Electricity Montserrat production
+Electricity Morocco production
+Electricity Mozambique production
+Electricity Myanmar production
+Electricity Namibia production
+Electricity Nauru production
+Electricity Nepal production
+Electricity New Caledonia production
+Electricity New Zealand production
+Electricity Nicaragua production
+Electricity Niger production
+Electricity Nigeria production
+Electricity North Korea production
+Electricity North Macedonia production
+Electricity Oman production
+Electricity Pakistan production
+Electricity Palestine production
+Electricity Panama production
+Electricity Papua New Guinea production
+Electricity Paraguay production
+Electricity Peru production
+Electricity Philippines production
+Electricity Puerto Rico production
+Electricity Qatar production
+Electricity Russia production
+Electricity Rwanda production
+Electricity Saint Helena production
+Electricity Saint Kitts and Nevis production
+Electricity Saint Lucia production
+Electricity Saint Pierre and Miquelon production
+Electricity Saint Vincent and the Grenadines production
+Electricity Samoa production
+Electricity Sao Tome and Principe production
+Electricity Saudi Arabia production
+Electricity Senegal production
+Electricity Serbia production
+Electricity Seychelles production
+Electricity Sierra Leone production
+Electricity Singapore production
+Electricity Solomon Islands production
+Electricity Somalia production
+Electricity South Africa production
+Electricity South Korea production
+Electricity South Sudan production
+Electricity Sri Lanka production
+Electricity Sudan production
+Electricity Suriname production
+Electricity Syria production
+Electricity Taiwan production
+Electricity Tajikistan production
+Electricity Tanzania production
+Electricity Thailand production
+Electricity Togo production
+Electricity Tonga production
+Electricity Trinidad and Tobago production
+Electricity Tunisia production
+Electricity Turkey production
+Electricity Turkmenistan production
+Electricity Turks and Caicos Islands production
+Electricity Uganda production
+Electricity Ukraine production
+Electricity United Arab Emirates production
+Electricity United States production
+Electricity United States Virgin Islands production
+Electricity Uruguay production
+Electricity Uzbekistan production
+Electricity Vanuatu production
+Electricity Venezuela production
+Electricity Vietnam production
+Electricity Western Africa production
+Electricity World production
+Electricity Yemen production
+Electricity Zambia production
+Electricity Zimbabwe production
+Electricity Asia production
+Electricity British Virgin Islands production
+Electricity East Timor production
+Electricity Oceania production
+Electricity Alberta production
+Electricity British Columbia production
+Electricity Manitoba production
+Electricity New Brunswick production
+Electricity Newfoundland and Labrador production
+Electricity Northwest Territories production
+Electricity Nova Scotia production
+Electricity Nunavut production
+Electricity Ontario production
+Electricity Prince Edward Island production
+Electricity Quebec production
+Electricity Saskatchewan production
+Electricity Yukon production
+Electricity Beijing production
+Electricity Tianjin production
+Electricity Hebei production
+Electricity Shanxi production
+Electricity Inner Mongolia production
+Electricity Liaoning production
+Electricity Jilin production
+Electricity Heilongjiang production
+Electricity Shanghai production
+Electricity Jiangsu production
+Electricity Zhejiang production
+Electricity Anhui production
+Electricity Fujian production
+Electricity Jiangxi production
+Electricity Shandong production
+Electricity Henan production
+Electricity Hubei production
+Electricity Hunan production
+Electricity Guangdong production
+Electricity Guangxi production
+Electricity Hainan production
+Electricity Chongqing production
+Electricity Sichuan production
+Electricity Guizhou production
+Electricity Yunnan production
+Electricity Tibet production
+Electricity Shaanxi production
+Electricity Gansu production
+Electricity Qinghai production
+Electricity Ningxia production
+Electricity Xinjiang production
+Electricity Andaman  & Nicobar production
+Electricity Andhra Pradesh production
+Electricity Arunachal Pradesh production
+Electricity Assam production
+Electricity Bihar production
+Electricity Chandigarh production
+Electricity Chhattisgarh production
+Electricity Dadra & Nagar Naveli production
+Electricity Delhi production
+Electricity Goa production
+Electricity Gujarat production
+Electricity Haryana production
+Electricity Himachal Pradesh production
+Electricity Jammu & Kashmir and Ladajh production
+Electricity Jharkhand production
+Electricity Karnataka production
+Electricity Kerala production
+Electricity Lakshadweep production
+Electricity Madhya Pradesh production
+Electricity Maharashtra production
+Electricity Manipur production
+Electricity Meghalaya production
+Electricity Mizoram production
+Electricity Nagaland production
+Electricity Odisha production
+Electricity Puducherry production
+Electricity Punjab production
+Electricity Rajasthan production
+Electricity Sikkim production
+Electricity Tamil Nadu production
+Electricity Alabama production
+Electricity Alaska production
+Electricity Arizona production
+Electricity Arkansas production
+Electricity California production
+Electricity Colorado production
+Electricity Connecticut production
+Electricity Delaware production
+Electricity District of Columbia production
+Electricity Florida production
+Electricity Georgia production
+Electricity Hawaii production
+Electricity Idaho production
+Electricity Illinois production
+Electricity Indiana production
+Electricity Iowa production
+Electricity Kansas production
+Electricity Kentucky production
+Electricity Louisiana production
+Electricity Maine production
+Electricity Maryland production
+Electricity Massachusetts production
+Electricity Michigan1 production
+Electricity Minnesota production
+Electricity Mississippi production
+Electricity Missouri production
+Electricity Montana production
+Electricity Nebraska production
+Electricity Nevada production
+Electricity New Hampshire production
+Electricity New Jersey production
+Electricity New Mexico production
+Electricity New York2 production
+Electricity North Carolina production
+Electricity North Dakota production
+Electricity Ohio production
+Electricity Oklahoma production
+Electricity Oregon production
+Electricity Pennsylvania production
+Electricity Rhode Island production
+Electricity South Carolina production
+Electricity South Dakota production
+Electricity Tennessee production
+Electricity Texas production
+Electricity Utah production
+Electricity Vermont production
+Electricity Virginia production
+Electricity Washington production
+Electricity West Virginia production
+Electricity Wisconsin production
+Electricity Wyoming production
+Heat - General Industry
+Heat - Domestic from heat pump
+Heat from natural gas - condensing low NOx - incl. combustion CO2
+Heat from anthracite coal 30.7 MJ/kg - incl. combustion CO2
+Heat from coal bituminous 26.4 MJ/kg  - incl. combustion CO2
+Heat from heavy oil for chemical processes - incl. combustion CO2
+Heat from natural gas for chemical processes - incl. combustion CO2
+Air traffic continental (min weight/volume ratio 0.167 ton/m3) (tkm)
+Air traffic intercontinental (min weight/volume ratio 0.167 ton/m3) (tkm)
+Air traffic continental (max weight/volume ratio 0.167 ton/m3) (m3km)*
+Air traffic intercontinental (max weight/volume ratio 0.167 ton/m3) (m3km)*
+Air passenger continental
+Air passenger intercontinental
+Transport pipeline natural gas
+Transport pipeline petroleum
+Train freight diesel (tkm)
+Train freight electric (tkm)
+Passenger-kilometer per train
+Tractor (240 pk)
+Truck +trailer  Euro 6 - B7 diesel (output per meter)
+Truck+container 28 tons net B7(min weight/volume ratio 0.41 ton/m3) (tkm)
+Truck+trailer 24 tons net B7 (min weight/volume ratio 0.32 ton/m3) (tkm)
+Truck+container 28 tons net B7 (max weight/volume ratio 0.41 ton/m3) (m3km)*
+Truck+trailer 24 tons net B7 (max weight/volume ratio 0.32 ton/m3) (m3km)*
+Truck +trailer  Euro 6 - HVO diesel (output per meter)
+Truck+container 28 tons net HVO (min weight/volume ratio 0.41 ton/m3) (tkm)
+Truck+trailer 24 tons net HVO (min weight/volume ratio 0.32 ton/m3) (tkm)
+Truck+container 28 tons net HVO (max weight/volume ratio 0.41 ton/m3) (m3km)
+Truck+trailer 24 tons net HVO (max weight/volume ratio 0.32 ton/m3) (m3km)*
+Barge 1475 dwt
+Bulk carrier Handysize dwt 16.383   12.5 knots
+Bulk carrier Panamax
+Coaster Class A (coast US and North and Baltic sea)
+Container feeder Handysize 1577 TEU 13  knots
+Container ship (min weight/volume ratio 0.41 ton/m3)
+Oil Supertanker
+Container ship (max weight/volume ratio 0.41 ton/m3) (m3km)*
+Deep drawing steel
+Rolling steel
+Fiber Laser cutting 1000 W  Steel 1mm thick  1 meter
+Fiber Laser cutting 6000 W  Steel 10mm thick per 1 meter
+Drilling steel (per kg removed - the removed steel not counted)
+Milling steel (per kg removed - revomed steel not counted)
+Turrning steel (per kg removed - steel removed not counted)
+Electroplating Chrome (single side)
+Electroplating Nickel (single side)
+Electroplating Zinc incl. outside use per 10 years (10  micron single side)
+Electroplating Zinc inside use or painted (5 micron)
+Hot-dip Zinc plating pieces outside use single side
+Phosphating (Fe s)
+Phosphating (Zn i)
+Phosphating (Zn s)
+Powder coating aluminium
+Powder coating steel
+Electric MIG welding 4mm steel   0.125 kg electrode
+welding shipbuilding (FCAW) per kg electrode
+welding steel arc (MAG) 0.0536 kg electrode
+welding steel autogenious 0.0536 kg electrode
+Anodising
+Autogenuous welding Al 1
+Autogenuous welding Al 2
+Autogenuous welding Al 3
+Cold transforming Al
+Fiber Laser cutting 1000 W  Aluminium 1mm thick, 1 meter
+Fiber Laser cutting 6000 W  Aluminium 10mm thick, 1 meter
+Drilling Al (per kg removed, removed Al not counted)
+Extruding alum
+Forging aluminium
+Machining aluminium
+MIG-arc welding Al 10
+MIG-arc welding Al 12
+MIG-arc welding Al 4
+MIG-arc welding Al 5 I-jnt
+MIG-arc welding Al 5 V-jnt
+MIG-arc welding Al 6 V-jnt
+MIG-arc welding Al 8
+Milling Al (per kg removed, removed Al not counted)
+Rolling aluminium foil
+Rolling aluminium sheet
+Rolling brass
+Sawing Al band saw
+Sawing Al circular saw
+Scouring aluminium
+Seam welding Al. 0.25
+Seam welding Al. 1.5
+Seam welding Al. 2.5
+Spot welding Al. 0.5
+Spot welding Al. 1
+Spot welding Al. 1.5
+Spot welding Al. 3
+Turning Al (per kg removed  removed Al not counted)
+Welding aluminium arc (0.0183 kg electrode)
+Corrugated board box making  (excl the paper)
+Printing per m2  100%  offset conventional
+Printing per m2  100%  UV inkjet
+Printing per m2  offset  conventional  electricity only
+Printing per m2  UV inkjet  electricity only
+Printing per m2  extra paint varnish layer
+blow moulding - machine only
+blow moulding - production site
+extrusion - machine only
+extrusion - production site
+injection moulding - machine only
+injection moulding - production site
+Recycling mixed polymer
+thermo forming - machine only
+thermo forming - production site
+no extra converting (e.g. plastic foam - glass - paper - etc)
+Chain sawing
+Power sawing (petrol)
+Shaving hardwood per kg dry mass removed
+Shaving softwood per kg dry mass removed
+BR and IIR (Butyl rubber) co-firing in electrical power plant
+EVA (Ethylene vinyl acetate) co-firing in electrical power plant
+IR (Polyisoprene rubber) co-firing in electrical power plant
+Natural rubber co-firing in electrical power plant
+Polychloroprene (Neoprene, CR) co-firing in electrical power plant
+PU (Polyurethane) co-firing in electrical power plant
+SBR (Styrene butadiene rubber) co-firing in electrical power plant
+Silicone rubber co-firing in electrical power plant
+CFRP (50%) co-firing in electrical power plant
+DMC (50%) co-firing in electrical power plant
+Flexible Polymer Foam co-firing in electrical power plant
+GFRP (50%) co-firing in electrical power plant
+Hardwood 0% MC  Bamboo & Cork  co-firing in electrical power plant
+Hardwood 12% MC  Bamboo & Cork  co-firing in electrical power plant
+Hardwood fresh 50% MC  Bamboo & Cork,  co-firing in electrical power plant
+Paper  Cardboard  Leather  Cotton (12% MC) co-firing in electrical power plant
+Rigid Polymer Foam co-firing in electrical power plant
+SMC (50%) co-firing in electrical power plant
+Softwood 0% MC co-firing in electrical power plant
+Softwood 12% MC co-firing in electrical power plant
+Softwood fresh 50% MC co-firing in electrical power plant
+ABS (Acrylonitrile butadiene styrene) co-firing in electrical power plant
+bio-PE (Polyethylene) co-firing in electrical power plant
+CA (Cellulose polymers) co-firing in electrical power plant
+Ionomer co-firing in electrical power plant
+PA-11 (Nylon-11) co-firing in electrical power plant
+PA (Nylons, Polyamides) co-firing in electrical power plant
+PC (Polycarbonate) co-firing in electrical power plant
+PE (Polyethylene) co-firing in electrical power plant
+PET (Polyethylene terephthalate) co-firing in electrical power plant
+PHA (Polyhydroxyalkanoates) co-firing in electrical power plant
+PLA (Polylactide) co-firing in electrical power plant
+PMMA (Polymethyl methacrylate) co-firing in electrical power plant
+POM (Polyoxymethylene, polyacetaal) co-firing in electrical power plant
+PP (Polypropylene) co-firing in electrical power plant
+PS (Polystyrene) co-firing in electrical power plant
+PTFE (Teflon  Polytetrafluoroethylene) co-firing in electrical power plant
+PTT (Polyltrimethylene terephthalate) co-firing in electrical power plant
+PUR (Polyurethane) co-firing in electrical power plant
+PVC (Polyvinylchloride) co-firing in electrical power plant
+PVDC (Polyvinyliden chloride) co-firing in electrical power plant
+Starch PBS 50%-50% (Polybutylene succinate) co-firing in electrical power plant
+PBS (Polybutylene succinate) co-firing in electrical power plant
+PBAT (Polybutylene adipate terephthalate) co-firing in electrical power plant
+PHB (Polyhydroxybutyrate) co-firing in electrical power plant
+PAN (Polyacrylonitrile fibres) co-firing in electrical power plant
+bio-PP (Polypropylene) co-firing in electrical power plant
+bio-PET (Polyethylene terephthalate) co-firing in electrical power plant
+PEF (Polyethylene furan-2.5-dicarboxylate) co-firing in electrical power plant
+Epoxies co-firing in electrical power plant
+Phenolics (Bakelite) co-firing in electrical power plant
+Polyester co-firing in electrical power plant
+Bisphenol A  co-firing in electrical power plant
+DEHP co-firing in electrical power plant
+DINP co-firing in electrical power plant
+Epichlorohydrin  co-firing in electrical power plant
+EVOH  co-firing in electrical power plant
+Formaldehyde  co-firing in electrical power plant
+MDI  co-firing in electrical power plant
+MMA monomer  co-firing in electrical power plant
+Nafion co-firing in electrical power plant
+Paperfoam  co-firing in electrical power plant
+PEEK (Polyetheretherketone)  co-firing in electrical power plant
+PEI (Polyether Imide) co-firing in electrical power plant
+Phthalic anhydride co-firing in electrical power plant
+Polyether-polyols co-firing in electrical power plant
+PPS  co-firing in electrical power plant
+PVOH (PVA) co-firing in electrical power plant
+TDI co-firing in electrical power plant
+Hardwood 0% MC  Bamboo and Cork  combustion in small elec. power plant
+Hardwood 12% MC  Bamboo and Cork  combustion in small elec. power plant
+Hardwood fresh 50% MC  Bamboo and Cork  combustion in small elec. power plant
+Paper  Cardboard  Leather  Cotton 12% MC  combustion in small elec. power plant
+Softwood 0% MC  combustion in small elec. power plant
+Softwood 12% MC  combustion in small elec. power plant
+Softwood fresh  50% MC  combustion in small elec. power plant
+BR and IIR (Butyl rubber) waste incineration with electricity
+EVA (Ethylene vinyl acetate) waste incineration with electricity
+IR (Polyisoprene rubber) waste incineration with electricity
+Natural rubber waste incineration with electricity
+Polychloroprene (Neoprene  CR) waste incineration with electricity
+PU (Polyurethane) waste incineration with electricity
+SBR (Styrene butadiene rubber) waste incineration with electricity
+Silicone rubbers waste incineration with electricity
+CFRP (50%) waste incineration with electricity
+DMC (50%) waste incineration with electricity
+Flexible Polymer Foam waste incineration with electricity
+GFRP (50%) waste incineration with electricity
+Hardwood 0%MC  Bamboo and Cork  waste incineration with electricity
+Hardwood 12%MC  Bamboo and Cork  waste incineration with electricity
+Hardwood fresh  50%MC  Bamboo and Cork  waste incineration with electricity
+Paper  Cardboard  Leather  Cotton (12%MC) waste incineration with electricity
+Rigid Polymer Foam waste incineration with electricity
+SMC (50%) waste incineration with electricity
+Softwood 0%MC  waste incineration with electricity
+Softwood 12%MC  waste incineration with electricity
+Softwood fresh  50%MC  waste incineration with electricity
+Paper and Cardboard, as wet household waste   waste incineration with electricity
+ABS (Acrylonitrile butadiene styrene) waste incineration with electricity
+bio-PE (Polyethylene) waste incineration with electricity
+CA (Cellulose polymers) waste incineration with electricity
+Ionomer waste incineration with electricity
+PA-11 (Nylon-11) waste incineration with electricity
+PA (Nylons, Polyamides) waste incineration with electricity
+PC (Polycarbonate) waste incineration with electricity
+PE (Polyethylene) waste incineration with electricity
+PET (Polyethylene terephthalate) waste incineration with electricity
+PHA (Polyhydroxyalkanoates) waste incineration with electricity
+PLA (Polylactide) waste incineration with electricity
+PMMA (Polymethyl methacrylate) waste incineration with electricity
+POM (Polyoxymethylene, Polyacetaal) waste incineration with electricity
+PP (Polypropylene) waste incineration with electricity
+PS (Polystyrene) waste incineration with electricity
+PTFE (Teflon, Polytetrafluoroethylene) waste incineration with electricity
+PTT (Polyltrimethylene terephthalate) waste incineration with electricity
+PUR (Polyurethane) waste incineration with electricity
+PVC (Polyvinylchloride) waste incineration with electricity
+PVDC (Polyvinyliden chloride) waste incineration with electricity
+Starch PBS 50%-50% (Polybutylene succinate) waste incineration with electricity
+PBS (Polybutylene succinate)  incineration with electricity
+PBAT (Polybutylene adipate terephthalate) waste incineration with electricity
+PHB (Polyhydroxybutyrate) waste incineration with electricity
+PAN (Polyacrylonitrile fibres) waste incineration with electricity
+bio-PP (Polypropylene) waste incineration with electricity
+bio-PET (Polyethylene terephthalate) waste incineration with electricity
+PEF (Polyethylene furan-2.5-dicarboxylate) waste incineration with electricity
+Epoxies waste incineration with electricity
+Phenolics (Bakelite) waste incineration with electricity
+Polyester waste incineration with electricity
+Bisphenol A  waste incineration with electricity
+DEHP  waste incineration with electricity
+DINP  waste incineration with electricity
+Epichlorohydrin  waste incineration with electricity
+EVOH  waste incineration with electricity
+Formaldehyde  waste incineration with electricity
+MDI  waste incineration with electricity
+MMA monomer  waste incineration with electricity
+Nafion  waste incineration with electricity
+Paperfoam  waste incineration with electricity
+PEEK (Polyetheretherketone)  waste incineration with electricity
+PEI (Polyether Imide) waste incineration with electricity
+Phthalic anhydride waste incineration with electricity
+Polyether-polyols waste incineration with electricity
+PPS  waste incineration with electricity
+PVOH (PVA) waste incineration with electricity
+TDI waste incineration with electricity
+AKD (Alkyl ketene dimers) waste incineration with electricity
+ASA (Acrylonitrile styrene acrylate) waste incineration with electricity
+Rosin (from wood, pine) waste incineration with electricity
+BR and IIR (Butyl rubber) waste combustion - clean tech without heat recovery
+EVA (Ethylene vinyl acetate) waste combustion - clean tech without heat recovery
+IR (Polyisoprene rubber) waste combustion - clean tech without heat recovery
+Natural rubber waste combustion - clean tech without heat recovery
+Polychloroprene (Neoprene, CR) waste combustion - clean tech without heat recovery
+PU (Polyurethane) waste combustion - clean tech without heat recovery
+SBR (Styrene butadiene rubber) waste combustion - clean tech without heat recovery
+Silicone rubbers combustion - clean tech without heat recovery
+CFRP (50%) waste combustion - clean tech without heat recovery
+DMC (50%) waste combustion - clean tech without heat recovery
+Flexible Polymer Foam, waste combustion - clean tech without heat recovery
+GFRP (50%) waste combustion - clean tech without heat recovery
+SMC waste combustion - clean tech without heat recovery
+ABS (Acrylonitrile butadiene styrene) waste combustion - clean tech without heat reco
+bio-PE (Polyethylene) waste combustion - clean tech without heat recovery
+CA (Cellulose polymers) waste combustion - clean tech without heat recovery
+Ionomer waste combustion - clean tech without heat recovery
+PA-11 (Nylon-11) waste combustion - clean tech without heat recovery
+PA (Nylons  Polyamides) waste combustion - clean tech without heat recovery
+PC (Polycarbonate) waste combustion - clean tech without heat recovery
+PE (Polyethylene) waste combustion - clean tech without heat recovery
+PET (Polyethylene terephthalate) waste combustion - clean tech without heat recovery
+PHA (Polyhydroxyalkanoates) waste combustion - clean tech without heat recovery
+PLA (Polylactide) waste combustion - clean tech without heat recovery
+PMMA (Polymethyl methacrylate) waste combustion - clean tech without heat recovery
+POM (Polyoxymethylene  Polyacetaal) waste combustion - clean tech without heat recove
+PP (Polypropylene) waste combustion - clean tech without heat recovery
+PS (Polystyrene) waste combustion - clean tech without heat recovery
+PTFE (Teflon, Polytetrafluoroethylene) waste combustion - clean tech without heat rec
+PTT (Polyltrimethylene terephthalate) waste combustion - clean tech without heat reco
+PUR (Polyurethane) waste combustion - clean tech without heat recovery
+PVDC (Polyvinyliden chloride) waste combustion - clean tech without heat recovery
+Starch PBS 50%-50% (Polybutylene succinate) waste combustion - clean tech without hea
+PBS (Polybutylene succinate) waste combustion - clean tech without heat recovery
+PBAT (Polybutylene adipate terepht) waste combustion - clean tech without heat recove
+PHB (Polyhydroxybutyrate) waste combustion - clean tech without heat recovery
+PAN (Polyacrylonitrile fibres) waste combustion - clean tech without heat recovery
+bio-PP (Polypropylene) waste combustion - clean tech without heat recovery
+bio-PET (Polyethylene terephthalate)waste combustion - clean tech without heat recove
+PEF (Polyethylene terephthalate) waste combustion - clean tech without heat recovery
+Epoxies waste combustion - clean tech without heat recovery
+Phenolics (Bakelite) waste combustion - clean tech without heat recovery
+Polyester waste combustion - clean tech without heat recovery
+Bisphenol A  waste combustion - clean tech without heat recovery
+DEHP  waste combustion - clean tech without heat recovery
+DINP  waste combustion - clean tech without heat recovery
+Epichlorohydrin waste combustion - clean tech without heat recovery
+EVOH  waste combustion - clean tech without heat recovery
+Formaldehyde  waste combustion - clean tech without heat recovery
+MDI  waste combustion - clean tech without heat recovery
+MMA monomer  waste combustion - clean tech without heat recovery
+Nafion  waste combustion - clean tech without heat recovery
+Paperfoam  waste combustion - clean tech without heat recovery
+PEEK (Polyetheretherketone)  waste combustion - clean tech without heat recovery
+PEI (Polyether Imide) waste combustion - clean tech without heat recovery
+Phthalic anhydride  waste combustion - clean tech without heat recovery
+Polyether-polyols  waste combustion - clean tech without heat recovery
+PPS  waste combustion - clean tech without heat recovery
+PVOH (PVA)  waste combustion - clean tech without heat recovery
+TDI  waste combustion - clean tech without heat recovery
+AKD (Alkyl ketene dimers)  waste combustion - clean tech without heat recovery
+ASA (Acrylonitrile styrene acrylate)  waste combustion - clean tech without heat reco
+Rosin (from wood, pine)  waste combustion - clean tech without heat recovery
+film HDPE 50 mu in mun waste inc
+film LDPE 50 mu in mun waste inc
+film PC 50 mu in mun waste inc
+film PET / PE+EVOH+PE 62 mu in mun waste inc
+film PET 50 mu in mun waste inc
+film PET+ALOx / LDPE 62 mu in mun waste inc
+film PET+PVOH / LDPE 62 mu in mun waste inc
+film PLA (biobased) 50 mu in mun waste inc
+film PP 50 mu in mun waste inc
+film PP+PVDC 62 mu in mun waste inc
+film PS (shrink) 50 mu in mun waste inc
+film PVC (stiff shrink) 50 mu in mun waste inc
+Metals open loop recycling credit
+Aluminium  recycling credit closed loop (79% virgin part trade mix)
+Copper  recycling credit closed loop (45% virgin part in trade mix)
+Gold  recycling credit closed loop (80% virgin part trade mix)
+Lead  recycling credit  closed loop (25% virgin part in trade mix)
+Magnesium  recycling credit closed loop (90% virgin part in trade mix)
+Nickel  recycling credit closed loop (66% virgin part in trade mix)
+Palladium  recycling credit  closed loop (91% virgin part in trade mix)
+Platinum  recycling credit  closed loop (88.5% virgin part in trade mix)
+Rhodium  recycling credit  closed loop (91% virgin part in trade mix)
+Silver  recycling credit closed loop (45% virgin part trade mix)
+Steel  recycling credit closed loop (50.2% virgin part in trade mix)
+Titanium  recycling credit  closed loop (81% virgin part in trade mix)
+Zinc  recycling credit closed loop (69% virgin part in trade mix)
+Plastics open loop recycling credit
+ABS closed loop chemical upcycling credit
+bio-PE (Polyethylene) closed loop chemical upcycling credit
+CA (Cellulose polymers) closed loop chemical upcycling credit
+EVA (Ethylene vinyl acetate) closed loop chemical upcycling credit
+Ionomer closed loop chemical upcycling credit
+PA-11 (nylon-11) closed loop chemical upcycling credit
+PA (nylons, polyamides) closed loop chemical upcycling credit
+PC (Polycarbonate) closed loop chemical upcycling credit
+PE (Polyethylene) closed loop chemical upcycling credit
+PET (Polyethylene terephthalate) closed loop chemical upcycling credit
+PHA and PHB (Polyhydroxyalkanoates)  closed loop chemical upcycling credit
+PLA (Polylactide) closed loop chemical upcycling credit
+PMMA (Acrilylic Polymethyl Methacrylate) closed loop chemical upcycling credit
+POM and Acetal (Polyoxymethylene) closed loop chemical upcycling credit
+PP (Polypropylene) closed loop chemical upcycling credit
+PS (Polystyrene) closed loop chemical upcycle credit
+PTFE  Teflon (Polytetrafluoroethylene) closed loop chemical upcycling credit
+PTT (Polyltrimethylene terephthalate) closed loop chemical upcycling credit
+PUR (Polyethane) closed loop chemical upcycling credit
+PVC (Polyvinylchloride) closed loop chemical upcycling credit
+Starch-PBS 50%-50% blend biodegradeble plastic closed loop chemical upcycling credit
+PBS (Polybutylene succinate) closed loop chemical upcycling credit
+PBAT (polybutylene adipate-co-terephthalate) closed loop chemical upcycling credit
+PAN (Polyacrylonitrile fibres) closed loop chemical upcycling credit
+Bio-PP (Polypropylene) closed loop chemical upcycling credit
+Bio-PET (Polyethylene terephthalate) closed loop chemical upcycling credit
+PEF (Polyethylene furan-2.5-dicarboxylate) closed loop chemical upcycling credit
+anaerobic digestion (fermentation) cow dung
+anaerobic digestion (fermentation) food waste
+anaerobic digestion (fermentation) garden waste
+composting biodegradable plastics
+composting organic waste (without transport)
+landfill (inert waste)
+landfill organic waste without CH4 emission prevention
+Torrefied wood excl EoL credit
+Torrefied wood incl EoL credit
+Waste to recycling prosesses
+plastic waste collection&sorting
+Scrap separation Mn  Fe  Cu  Ni and Zn
+Scrap collection&sorting (alum.)
+Scrap collection&sorting (copper)
+Scrap collection&sorting (iron and glass)
+Scrap collection&sorting (other non-ferro metals)
+Scrap collection&sorting (Pb)
+Scrap collection&sorting (Stainless st)
+Carbon storage in wood >100 years (per kg wood 12%MC)
+landfill of bio-PE (incl carbon sequestration)
+landfill of bio-PP (incl carbon sequestration)
+landfill of bio-PET (incl carbon sequestration)
+landfill of PEF (incl carbon sequestration)
+landfill of PA-11 (Nylon-11) (incl carbon sequestration)
+landfill of biodegradable bioplastics with CH4 emission prevention
+Carbon uptake per kg Cement < 100 years
+Carbon uptake per kg Cement > 100 years
+Pre-baked frozen fries
+Potatoes without skin
+Beer (bottle)
+Young gin
+Wine red
+Wine rose
+Wine white dry
+Baguette white
+Bread multigrain
+Bread rye
+Bread white water
+Bread whole wheat
+Currant Bun
+Crispbread
+Croissant
+White bread hard
+White bread soft
+Mealworms
+Seaweed kelp raw
+Chicken egg
+Applesauce (can)
+Applesauce (glass)
+Apple
+Apricots
+Avocado
+Banana
+Coconut milk (can)
+Coconut milk (pack)
+Dates - dried
+Figs - dried
+Figs
+Fruit snack
+Grapes
+Kiwi
+Lemon
+Mandarine
+Mango
+Honeydew melon
+Olives (can)
+Olives (glass)
+Orange
+Peach
+Pineapple
+Strawberries
+Stuffed biscuit
+Apple pie with butter
+Apple pie with margarine
+Biscuit - wheat/whole wheat
+Biscuit - fruit
+Biscuit
+Gingerbread
+Cake with butter
+Cake without butter
+Syrup waffle
+Bread dough, pizza base/pie
+Wheat flour
+Muesli - crispy with fruit
+Oatmeal
+Pasta
+Rice - pericarp
+Rice - white
+Bean sprouts
+Frozen green beans (plastic)
+Green beans (can)
+Green beans (glass)
+Green beans (plastic)
+Broccoli
+Carrot
+Cauliflower
+Chicory
+Zucchini
+Cucumber with peel
+Kale
+Lettuce, medium
+Lettuce
+Mushrooms
+Onion
+Peas with carrots (canned)
+Peas with carrots (glass)
+Peas - frozen
+Spinach - frozen
+Bell pepper
+Corn (canned)
+Corn (glass)
+Tomato
+Fish salade
+Hummus natural
+Peanut butter
+Gravy from gravy powder  25% fat
+French fries sauce
+Mayonnaise
+Oriental sauce (glass)
+Tomato sauce (glass)
+Potato Chips
+Croquette - beef
+Popcorn
+Sausage roll
+Frikandel
+Cheese 20+
+Cheese Edam 40+
+Goat cheese fresh
+Cheese Gouda 48+
+Mozzarella
+Aged cheese 48+
+Cheese spread 48+
+Stock cube - vegetable
+Milk churn
+Cream
+Custard - full variety of flavors
+Custard - vanilla
+Cottage cheese - whole
+Cream - vanilla ice cream
+Chocolate milk - whole
+Chocolate milk semi-skimmed
+Milk semi-skimmed
+Milk skimmed
+Milk whole
+Yogurt drink - sweetener
+Yogurt whole
+Yogurt semi-skimmed
+Yogurt low-fat with fruits
+Yogurt low fat
+Coffee
+Cola Light
+Icetea
+Fruit drink - 12% fruit concentrate
+Fruit drink - 8% fruit concentrate
+Apple juice
+Orange juice pasteurized
+Syrup light
+Syrup
+Syrup sweetened
+Mineral water - average
+Coke
+Soft drink light
+Soda sugar and caffeine
+Tea
+Almonds - without membrane
+Cashew nuts - unsalted
+Hazelnuts - unsalted
+Flax seed
+Peanuts - unsalted
+Pistachios - salted
+Pistachios - unsalted
+Walnuts - unsalted
+Kidney beans (can)
+Kidney beans (glass)
+Chickpeas
+Infant formula - milk powder
+Sprinkles milk
+Sprinkles pure
+Chocolate milk
+Chocolate spread duo
+Chocolate spread hazelnut
+Honey (glass)
+Honey (bottle)
+Water ice
+Jam (glass)
+Granulated sugar
+Apple syrup
+Butter - salted
+Butter - unsalted
+Frying fat
+Halvarine
+Margarine
+Olive oil
+Sunflower oil
+Catfish
+Fried fish
+Cod fillet
+Fish sticks
+Herring in tomato sauce
+Herring in (sweet) and sour
+Herring salted
+Lemon sole
+Mackerel fillet smoked
+Pangasius
+Plaice
+Pollock
+Canned salmon - farmed fish
+Canned salmon - wild catch
+Salmon fillet - farmed fish
+Salmon fillet - wild catch
+Smoked salmon - farmed fish
+Smoked salmon - wild catch
+Dutch shrimps
+Tilapia
+Trout
+Canned tuna
+Gourmet fish
+Beef fritters
+Beef roast
+Beef steak
+Chicken breast
+Chicken with skin
+Hamburger
+Minced meat - beef
+Minced meat - half-and-half
+Pork - lean
+Pork - fat
+Pork shoulder chop
+Knaksausage (can)
+Knaksausage (glass)
+Pork bratwurst
+Beef smoked sausage
+Veal
+Vegetarian minced meat - mycoprotein
+Vegetarian luncheon meat
+Soy drink natural
+Tahoe
+Vegetarian disc
+Vegetarian hamburger
+Vegetarian schnitzel
+Breakfast bacon
+Beef smoked meat
+Chicken breast
+Filet Americain
+Gammon
+Shoulder ham
+Spread liver sausage
+Roast minced meat
+Cooked sausage
+Sandwich sausage
+Beef sausage
+Saveloy
+Baking (1.5 MJe per kg product)
+Boiling (1.1 MJe per kg product)
+Roasting chicken (3 MJe per kg product)
+1,4-dioxanes (n=1, std= -)
+1-hydroxy-4-unsubstituted benzenoids (n=1, std=-)
+Acetylides (n=1, std=-)
+Alcohols and polyols (n=14, std=0.21)
+Alkali metal chlorides (n=3, std=0.006)
+Alkali metal hydroxides (n=4, std=0.07)
+Alkali metal hypochlorites (n=2, std=0.015)
+Alkali metal silicates (n=2, std=0.22)
+Alkaline earth metal oxides (n=2, std=0.23)
+Alkanes (n=5, std=0.2)
+Alpha-halocarboxylic acids and derivatives (n=2, std=0.11)
+Amines (n=7, std=0.16)
+Benzene and substituted derivatives (n=3, std=0.38)
+Benzenesulfonic acids and derivatives (n=3, std=0.50)
+Benzoyl derivatives (n=1, std=-)
+Benzyl alcohols (n=1, std=-)
+Benzyl halides (n=1, std=-)
+Carbonyl compounds (n=6, std=0.32)
+Carboxylic acid derivatives (n=10, std=0.30)
+Carboxylic acids (n=4, std=0.29)
+Cumenes (n=2, std=0.1107)
+Cycloalkanes (n=2, std=0.12)
+Dicarboxylic acids and derivatives (n=4, std=0.056)
+Epoxides (n=2, std=0.05)
+Ethers (n=7, std=0.35)
+Gamma butyrolactones (n=1, std=-)
+Halobenzenes (n=3, std=0.005)
+Halogen hydrides (n=1, std=- )
+Homogeneous halogens (n=3, std=0.0025)
+Homogeneous metalloid compounds (n=1, std=-)
+Homogeneous noble gases (n=1, std=-)
+Homogeneous other non-metal compounds (n=4, std=0.11)
+Homogeneous transition metal compounds (n=2, std=12.24)
+Metalloid oxides (n=1, std=-)
+Miscellaneous mixed metal/non-metals (n=3, std=9.43)
+N-alkylpyrrolidines (n=1, std=-)
+Non-metal nitrates (n=1, std=-)
+Non-metal phosphates (n=1, std=-)
+Non-metal sulfates (n=1, std=-)
+Olefins (n=1, std=-)
+Organic carbonic acids (n=1, std=-)
+Organic cyanides (n=1, std=-)
+Organochlorides (n=1, std=-)
+Organofluorides (n=1, std=-)
+Other non-metal nitrides (n=1, std=-)
+Other non-metal oxides (n=2, std=0)
+Other non-metal sulfides (n=2, std=0.08)
+Styrenes (n=1, std=-)
+Sulfoxides (n=1, std=-)
+Sulfuric acid esters (n=1, std=-)
+Tetrahydrofurans (n=1, std=-)
+Toluenes (n=1, std=-)
+Transition metal oxides (n=2, std=13.45)
+Unsaturated aliphatic hydrocarbons (n=1, std=-)
+Unsaturated aliphatic hydrocarbons (n=1, std=-)
+Ureas (n=1, std=-)
+Vinyl fluorides (n=1, std=-)
+Xylenes (n=1, std=-)
+Acrylic acids and derivatives (n=2, std=0.10)
+Benzenediols (n=2, std=1.80)
+Benzoic acids and derivatives (n=2, std=0.10)
+Carbohydrates and carbohydrate conjugates (n=2, std=0.61)
+Carbonic acid diesters (n=2, std=0.12)
+Diphenylmethanes (n=2, std=0.66)
+Halomethanes (n=6, std=3.60)
+Isoindolines (n=2, std=2.69)
+Methylpyridines (n=2, std=3.53)
+Nitrobenzenes (n=4, std=1.15)
+Organic alkali metal salts (n=3, std=0.25)
+Organobromides (class) (n=2, std=0.15)
+Organosilicon compounds (n=2, std=0.02)
+Phenoxy compounds (n=2, std=0.47)
+Phenylpropanes (n=5, std=0.69)
+Pyrazoles (n=2, std=3.47)
+Pyridazines and derivatives (n=2, std=0.00)
+Pyridines and derivatives (class) (n=2, std=1.64)
+Amino acids, peptides, and analogues (n=1, std=-)
+Aminotriazines (n=1, std=-)
+Anilides (n=4, std=0.20)
+Aniline and substituted anilines (n=1, std=-)
+Benzene and substituted derivatives (n=1, std=-)
+Benzenoids (n=1, std=-)
+Benzimidazoles (n=1, std=-)
+Benzoic acids and derivatives (n=2, std=0.70)
+Coumarans (n=1, std=-)
+Cyclohexyl halides (n=1, std=-)
+Diphenylmethanes (n=1, std=-)
+Dithiophosphate O-esters (n=1, std=-)
+Fatty acid esters (n=2, std=2.12)
+Halobenzenes (n=1, std=-)
+Isoindolines (n=1, std=-)
+N-phenylureas (n=3, std=0.27)
+Naphthalenes (n=1, std=-)
+Nitrophenols (n=1, std=-)
+Organic transition metal salts (n=1, std=-)
+Phenoxyacetic acid derivatives (n=3, std=0.09)
+Phenylpropanes (n=1, std=-)
+Pyridines and derivatives (n=1, std=-)
+Pyridinium derivatives (n=1, std=-)
+Sulfonylureas (n=1, std=-)
+Thiocarbamic acid derivatives (n=1, std=-)
+Thiophosphoric acid esters (n=2, std=0.11)
+Carbon Dioxide (CO2), fossil, direct emissions (scope1 and downstream)
+Carbon Dioxide (CO2), biogenic, direct emissions (scope1 and downstream)
+Methane (CH4), fossil, direct emissions (scope1 and downstream)
+Methane (CH4), biogenic, direct emissions (scope1 and downstream)
+Carbon Monoxide (CO), fossil, direct emissions (scope1 and downstream)
+Carbon monoxide (CO), biogenic, direct emissions (scope1 and downstream)
+Nitrous oxide (N2O), direct emissions (scope1 and downstream)
+Butane (C4H10), direct emissions (scope1 and downstream)
+Ethane (C2H6), direct emissions (scope1 and downstream)
+Pentane (C5H12), direct emissions (scope1 and downstream)
+Propane (C3H8), direct emissions (scope1 and downstream)
+Sulfur hexafluoride (SF6), direct emissions (scope1 and downstream)
+Tetrafluoroethane, HFC-134a ( direct emissions (scope1 and downstream)
+Trifluoroethane, HFC-143a ( direct emissions (scope1 and downstream)
+Difluoromethane, HFC32 ( direct emissions (scope1 and downstream)
+Tetrafluoropropene, HFO-1234yf ( direct emissions (scope1 and downstream)
+Sulfur Dioxide (SO2), direct emissions (scope1 and downstream)
+Ammonia (NH3), direct emissions (scope1 and downstream)
+Nitrate (NO3), direct emissions (scope1 and downstream)
+Nitrogen Oxides (NOx), direct emissions (scope1 and downstream)
+Non-methane volatile organic compounds (NMVOC), direct emissions (scope1 and downstre
+Phosphate (PO4), direct emissions (scope1 and downstream)
+Phosphorous (P), direct emissions (scope1 and downstream)
+Phosphoric acid (H3O4P), direct emissions (scope1 and downstream)
+Acetone (CH3COCH3), direct emissions (scope1 and downstream)
+Benzene (C6H6), direct emissions (scope1 and downstream)
+Benzyl Chloride (C7H7Cl ), direct emissions (scope1 and downstream)
+1-Butanol (C4H10O), direct emissions (scope1 and downstream)
+Butadiene (C4H6), direct emissions (scope1 and downstream)
+Butyl acetate (C6H12O2), direct emissions (scope1 and downstream)
+Chloroform (CHCl3), direct emissions (scope1 and downstream)
+Dichloro-ethane (C2H4Cl2), direct emissions (scope1 and downstream)
+Dimethyl ether (C2H6O), direct emissions (scope1 and downstream)
+Ethanol (C2H5OH), direct emissions (scope1 and downstream)
+Ethyl acetate  (C4H8O2), direct emissions (scope1 and downstream)
+Ethylene (C2H4), direct emissions (scope1 and downstream)
+Formaldehyde (CH2O), direct emissions (scope1 and downstream)
+Hexane (C6H14), direct emissions (scope1 and downstream)
+Isoprene (C5H8), direct emissions (scope1 and downstream)
+Methanol (CH3OH), direct emissions (scope1 and downstream)
+1-Propanol (C3H8O), direct emissions (scope1 and downstream)
+Naphthalene (C10H8), direct emissions (scope1 and downstream)
+Propylene (C3H6), direct emissions (scope1 and downstream)
+Styrene (C8H8), direct emissions (scope1 and downstream)
+Tetrachloroethylene (C2Cl4), direct emissions (scope1 and downstream)
+Toluene (C6H5CH3), direct emissions (scope1 and downstream)
+Trichloroethylene (C2HCl3), direct emissions (scope1 and downstream)
+Turpentine, direct emissions (scope1 and downstream)
+White spirit, direct emissions (scope1 and downstream)
+Xylene (C6H4(CH3)2), direct emissions (scope1 and downstream)
+Particulates PM2.5, direct emissions (scope1 and downstream)
