@@ -276,20 +276,7 @@
             </main>
 
             <!-- Footer -->
-            <footer class="bg-dark-card border-t border-dark-border px-6 py-4">
-                <div class="flex items-center justify-between text-sm text-text-light">
-                    <div class="flex items-center space-x-4">
-                        <span>© 2025 FIBERS S.A Dashboard</span>
-                        <span>•</span>
-                        <span>Version 1.0.0</span>
-                    </div>
-                    <div class="flex items-center space-x-4">
-                        <a href="#" class="hover:text-cyan-primary">Privacy Policy</a>
-                        <span>•</span>
-                        <a href="#" class="hover:text-cyan-primary">Terms of Service</a>
-                    </div>
-                </div>
-            </footer>
+
             </div>
     </div>
 
@@ -412,11 +399,17 @@
             const progressText = document.getElementById('progressText');
             
             const progressSteps = [
-                { width: 25, text: 'Reading CSV file...' },
-                { width: 50, text: 'Mapping processes with AI...' },
-                { width: 75, text: 'Calculating eco costs...' },
-                { width: 100, text: 'Saving to database...' }
-            ];
+            { width: 10, text: 'Reading CSV file...' },
+            { width: 20, text: 'Mapping processes with AI...' },
+            { width: 30, text: 'Calculating eco costs...' },
+            { width: 40, text: 'Going for a walk on the forest...' },
+            { width: 50, text: 'Making everything more realistic...' },
+            { width: 60, text: 'Seeking life\'s meaning...' },
+            { width: 70, text: 'Waiting for the sauna to heat up...' },
+            { width: 80, text: 'Asking AI for this line of dialog...' },
+            { width: 90, text: 'Turning sentient...' },
+            { width: 100, text: 'Finalizing dashboard...' }
+        ];
 
             progressSteps.forEach((step, index) => {
                 setTimeout(() => {
