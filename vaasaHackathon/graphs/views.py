@@ -152,6 +152,7 @@ def upload_csv(request):
 
     with open("../base_dashboard.json") as file:
         json_dashboard = json.load(file)
+        grafana.delete_dashboard("sustainaibility_dashboard")
         grafana.make_dashboard("sustainaibility_dashboard", "fezd6aiy8s6ioc", json_dashboard)
 
     #return render(request, 'index.html', context)
