@@ -7,7 +7,7 @@ django.setup()
 
 
 # Path to your local Excel file
-file_path = "C:/Users/anoua/OneDrive/Escritorio/Hackathons/Junction/idemat2025_db.xlsx"
+file_path = "./idemat2025_db.xlsx"
 
 # Read the first sheet
 
